@@ -2,8 +2,14 @@
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",TV1
 https://rtm1hd.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tv1-rtm-logo-vector-720x340.jpg" group-title="Malaysia",RTM 1
+https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png",TV2
 https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b1064000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="Malaysia",RTM 2
+https://rtm5hdmobile.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv3.png",TV3
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfG-dtndn_Q_dgZNccAK1Os)/dm/3/x6qp375/d/live-3.m3u8
