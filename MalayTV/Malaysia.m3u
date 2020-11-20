@@ -185,3 +185,7 @@ http://210.210.155.66/h/h05/01.m3u8
 http://210.210.155.66/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-language="Malay" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png" group-title="Malaysia",GoShop
 http://210.210.155.66/h/h08/01.m3u8
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-language="Malay" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png" group-title="Malaysia",GoShop
+http://live8.cdn.iptv8k.org/live/mys508/s.m3u8
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-language="Malay" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png" group-title="Malaysia",GoShop
+http://live10.cdn.iptv8k.org/review_stream/mys527/i.m3u8
