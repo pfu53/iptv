@@ -190,3 +190,1808 @@ http://210.210.155.66/h/h08/01.m3u8
 http://live8.cdn.iptv8k.org/live/mys508/s.m3u8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-language="Malay" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png" group-title="Malaysia",GoShop
 http://live10.cdn.iptv8k.org/review_stream/mys527/i.m3u8
+
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="Server ID: NET HD" tvg-logo="" group-title="Server ID",Server ID: NET HD
+http://tvku.live:8888/IptvAdi/678ugt/3579
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Server ID: Trans 7" tvg-logo="" group-title="Server ID",Server ID: Trans 7
+http://tvku.live:8888/IptvAdi/678ugt/3583
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Server ID: Trans TV" tvg-logo="" group-title="Server ID",Server ID: Trans TV
+http://tvku.live:8888/IptvAdi/678ugt/3584
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="Server ID: ANTV" tvg-logo="" group-title="Server ID",Server ID: ANTV
+http://tvku.live:8888/IptvAdi/678ugt/3588
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="Server ID: SCTV" tvg-logo="" group-title="Server ID",Server ID: SCTV
+http://tvku.live:8888/IptvAdi/678ugt/3593
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Indosiar" tvg-logo="" group-title="Server ID",Server ID: Indosiar
+http://tvku.live:8888/IptvAdi/678ugt/4839
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png"group-title="MNC GROUP",MNCTV HD
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1 group-title="MNC GROUP",RCTI 
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1 group-title="MNC GROUP",RCTI HD
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:-1 group-title="MNC GROUP",GLOBAL TV 
+http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?_res_tag_=video&amp;virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png"group-title="MNC GROUP",,GLOBAL TV HD
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="MNC GROUP",TVONE HD
+https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybKst-5K8MJLn9w-Kcd7h32s)/dm/3/x619221/s/live-3.m3u8
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="Server ID: TV One" tvg-logo="" group-title="Server ID",Server ID: TV One
+http://tvku.live:8888/IptvAdi/678ugt/3587
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Server ID: Metro TV" tvg-logo="" group-title="Server ID",Server ID: Metro TV
+http://tvku.live:8888/IptvAdi/678ugt/3589
+#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Server ID: Kompas TV" tvg-logo="" group-title="Server ID",Server ID: Kompas TV
+http://tvku.live:8888/IptvAdi/678ugt/3590
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Server ID: Berita Satu" tvg-logo="" group-title="Server ID",Server ID: Berita Satu
+http://tvku.live:8888/IptvAdi/678ugt/3578
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="Server ID: TVRI" tvg-logo="" group-title="Server ID",Server ID: TVRI
+http://tvku.live:8888/IptvAdi/678ugt/3594
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Elshinta" tvg-logo="" group-title="Server ID",Server ID: Elshinta
+http://tvku.live:8888/IptvAdi/678ugt/3581
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="Server ID: Rajawali TV" tvg-logo="" group-title="Server ID",Server ID: Rajawali TV
+http://tvku.live:8888/IptvAdi/678ugt/3591
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Nusantara TV" tvg-logo="" group-title="Server ID",Server ID: Nusantara TV
+http://tvku.live:8888/IptvAdi/678ugt/3582
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Rodja" tvg-logo="" group-title="Server ID",Server ID: Rodja
+http://tvku.live:8888/IptvAdi/678ugt/3592
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: K Drama" tvg-logo="" group-title="Server ID",Server ID: K Drama
+http://tvku.live:8888/IptvAdi/678ugt/3595
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Sinema Indonesia" tvg-logo="" group-title="Server ID",Server ID: Sinema Indonesia
+http://tvku.live:8888/IptvAdi/678ugt/3596
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: O Channel" tvg-logo="" group-title="Server ID",Server ID: O Channel
+http://tvku.live:8888/IptvAdi/678ugt/3597
+#EXTINF:-1 tvg-id="JakTV.id" tvg-name="Server ID: Jak TV" tvg-logo="" group-title="Server ID",Server ID: Jak TV
+http://tvku.live:8888/IptvAdi/678ugt/3598
+#EXTINF:-1 tvg-id="DaaiTv.id" tvg-name="Server ID: DAAI TV" tvg-logo="" group-title="Server ID",Server ID: DAAI TV
+http://tvku.live:8888/IptvAdi/678ugt/3599
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Lejel" tvg-logo="" group-title="Server ID",Server ID: Lejel
+http://tvku.live:8888/IptvAdi/678ugt/3601
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="Server ID: JTV" tvg-logo="" group-title="Server ID",Server ID: JTV
+http://tvku.live:8888/IptvAdi/678ugt/3600
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: CNA" tvg-logo="" group-title="Server ID",Server ID: CNA
+http://tvku.live:8888/IptvAdi/678ugt/3580
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Da Vinci Kids" tvg-logo="" group-title="Server ID",Server ID: Da Vinci Kids
+http://tvku.live:8888/IptvAdi/678ugt/3577
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="Server ID: BBC World News" tvg-logo="" group-title="Server ID",Server ID: BBC World News
+http://tvku.live:8888/IptvAdi/678ugt/3585
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="Server ID: France 24" tvg-logo="" group-title="Server ID",Server ID: France 24
+http://tvku.live:8888/IptvAdi/678ugt/3586
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Phoenix" tvg-logo="" group-title="Server ID",Server ID: Phoenix
+http://tvku.live:8888/IptvAdi/678ugt/3602
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Spacetoon" tvg-logo="" group-title="Server ID",Server ID: Spacetoon
+http://tvku.live:8888/IptvAdi/678ugt/3603
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Arirang" tvg-logo="" group-title="Server ID",Server ID: Arirang
+http://tvku.live:8888/IptvAdi/678ugt/3604
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: XingXong" tvg-logo="" group-title="Server ID",Server ID: XingXong
+http://tvku.live:8888/IptvAdi/678ugt/3605
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Aljazeera" tvg-logo="" group-title="Server ID",Server ID: Aljazeera
+http://tvku.live:8888/IptvAdi/678ugt/3606
+#EXTINF:-1 tvg-id="BloombergTVAsia.id" tvg-name="Server ID: Bloomberg" tvg-logo="https://i.ibb.co/7Jn9Sb8/bloom.png" group-title="Server ID",Server ID: Bloomberg
+http://tvku.live:8888/IptvAdi/678ugt/3607
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: RT" tvg-logo="" group-title="Server ID",Server ID: RT
+http://tvku.live:8888/IptvAdi/678ugt/3608
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: TRT World" tvg-logo="" group-title="Server ID",Server ID: TRT World
+http://tvku.live:8888/IptvAdi/678ugt/3609
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: MY TV" tvg-logo="" group-title="Server ID",Server ID: MY TV
+http://tvku.live:8888/IptvAdi/678ugt/3610
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Disney Channel" tvg-logo="" group-title="Server ID",Server ID: Disney Channel
+http://tvku.live:8888/IptvAdi/678ugt/3613
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Disney Junior" tvg-logo="" group-title="Server ID",Server ID: Disney Junior
+http://tvku.live:8888/IptvAdi/678ugt/3614
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Animal Planet HD" tvg-logo="" group-title="Server ID",Server ID: Animal Planet HD
+http://tvku.live:8888/IptvAdi/678ugt/3615
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Animal Planet FHD" tvg-logo="" group-title="Server ID",Server ID: Animal Planet FHD
+http://tvku.live:8888/IptvAdi/678ugt/3616
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Discovery Channel HD" tvg-logo="" group-title="Server ID",Server ID: Discovery Channel HD
+http://tvku.live:8888/IptvAdi/678ugt/3617
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Discovery Channel FHD" tvg-logo="" group-title="Server ID",Server ID: Discovery Channel FHD
+http://tvku.live:8888/IptvAdi/678ugt/3618
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Nat Geo People HD" tvg-logo="" group-title="Server ID",Server ID: Nat Geo People HD
+http://tvku.live:8888/IptvAdi/678ugt/3619
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Nat Geo Wild HD" tvg-logo="" group-title="Server ID",Server ID: Nat Geo Wild HD
+http://tvku.live:8888/IptvAdi/678ugt/3620
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Nat Geo HD" tvg-logo="" group-title="Server ID",Server ID: Nat Geo HD
+http://tvku.live:8888/IptvAdi/678ugt/3621
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Disc Asia HD" tvg-logo="" group-title="Server ID",Server ID: Disc Asia HD
+http://tvku.live:8888/IptvAdi/678ugt/3622
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: BBC Lifestyle HD" tvg-logo="" group-title="Server ID",Server ID: BBC Lifestyle HD
+http://tvku.live:8888/IptvAdi/678ugt/3623
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Channel V HD" tvg-logo="" group-title="Server ID",Server ID: Channel V HD
+http://tvku.live:8888/IptvAdi/678ugt/3624
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: TVN HD" tvg-logo="" group-title="Server ID",Server ID: TVN HD
+http://tvku.live:8888/IptvAdi/678ugt/3625
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: TLC HD" tvg-logo="" group-title="Server ID",Server ID: TLC HD
+http://tvku.live:8888/IptvAdi/678ugt/3626
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: AFC HD" tvg-logo="" group-title="Server ID",Server ID: AFC HD
+http://tvku.live:8888/IptvAdi/678ugt/3627
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: HGTV HD" tvg-logo="" group-title="Server ID",Server ID: HGTV HD
+http://tvku.live:8888/IptvAdi/678ugt/3628
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Animax HD" tvg-logo="" group-title="Server ID",Server ID: Animax HD
+http://tvku.live:8888/IptvAdi/678ugt/3630
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: AXN HD" tvg-logo="" group-title="Server ID",Server ID: AXN HD
+http://tvku.live:8888/IptvAdi/678ugt/3631
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: S GEM HD" tvg-logo="" group-title="Server ID",Server ID: S GEM HD
+http://tvku.live:8888/IptvAdi/678ugt/3632
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX HD" tvg-logo="" group-title="Server ID",Server ID: FOX HD
+http://tvku.live:8888/IptvAdi/678ugt/3633
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX FHD" tvg-logo="" group-title="Server ID",Server ID: FOX FHD
+http://tvku.live:8888/IptvAdi/678ugt/3634
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Life HD" tvg-logo="" group-title="Server ID",Server ID: FOX Life HD
+http://tvku.live:8888/IptvAdi/678ugt/3635
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Life FHD" tvg-logo="" group-title="Server ID",Server ID: FOX Life FHD
+http://tvku.live:8888/IptvAdi/678ugt/3636
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Crime HD" tvg-logo="" group-title="Server ID",Server ID: FOX Crime HD
+http://tvku.live:8888/IptvAdi/678ugt/3637
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Crime FHD" tvg-logo="" group-title="Server ID",Server ID: FOX Crime FHD
+http://tvku.live:8888/IptvAdi/678ugt/3638
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Movies HD" tvg-logo="" group-title="Server ID",Server ID: FOX Movies HD
+http://tvku.live:8888/IptvAdi/678ugt/3639
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Movies FHD" tvg-logo="" group-title="Server ID",Server ID: FOX Movies FHD
+http://tvku.live:8888/IptvAdi/678ugt/3640
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Action HD" tvg-logo="" group-title="Server ID",Server ID: FOX Action HD
+http://tvku.live:8888/IptvAdi/678ugt/3641
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Action FHD" tvg-logo="" group-title="Server ID",Server ID: FOX Action FHD
+http://tvku.live:8888/IptvAdi/678ugt/3642
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Family Movies HD" tvg-logo="" group-title="Server ID",Server ID: FOX Family Movies HD
+http://tvku.live:8888/IptvAdi/678ugt/3643
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Family Movies FHD" tvg-logo="" group-title="Server ID",Server ID: FOX Family Movies FHD
+http://tvku.live:8888/IptvAdi/678ugt/3644
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FX HD" tvg-logo="" group-title="Server ID",Server ID: FX HD
+http://tvku.live:8888/IptvAdi/678ugt/3645
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FX FHD" tvg-logo="" group-title="Server ID",Server ID: FX FHD
+http://tvku.live:8888/IptvAdi/678ugt/3646
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: HBO HD " tvg-logo="" group-title="Server ID",Server ID: HBO HD 
+http://tvku.live:8888/IptvAdi/678ugt/4828
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: HBO Hits HD" tvg-logo="" group-title="Server ID",Server ID: HBO Hits HD
+http://tvku.live:8888/IptvAdi/678ugt/4829
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: HBO Family HD" tvg-logo="" group-title="Server ID",Server ID: HBO Family HD
+http://tvku.live:8888/IptvAdi/678ugt/4830
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: HBO Signature HD" tvg-logo="" group-title="Server ID",Server ID: HBO Signature HD
+http://tvku.live:8888/IptvAdi/678ugt/4831
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Red By HBO HD" tvg-logo="" group-title="Server ID",Server ID: Red By HBO HD
+http://tvku.live:8888/IptvAdi/678ugt/4832
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Cinemax HD" tvg-logo="" group-title="Server ID",Server ID: Cinemax HD
+http://tvku.live:8888/IptvAdi/678ugt/4833
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Sony ONE HD" tvg-logo="" group-title="Server ID",Server ID: Sony ONE HD
+http://tvku.live:8888/IptvAdi/678ugt/3647
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Sport HD" tvg-logo="" group-title="Server ID",Server ID: FOX Sport HD
+http://tvku.live:8888/IptvAdi/678ugt/3648
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Sport FHD" tvg-logo="" group-title="Server ID",Server ID: FOX Sport FHD
+http://tvku.live:8888/IptvAdi/678ugt/3649
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Sport 2 HD" tvg-logo="" group-title="Server ID",Server ID: FOX Sport 2 HD
+http://tvku.live:8888/IptvAdi/678ugt/3650
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Sport 2 FHD" tvg-logo="" group-title="Server ID",Server ID: FOX Sport 2 FHD
+http://tvku.live:8888/IptvAdi/678ugt/3651
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Sport 3 HD" tvg-logo="" group-title="Server ID",Server ID: FOX Sport 3 HD
+http://tvku.live:8888/IptvAdi/678ugt/3652
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Sport 3 FHD" tvg-logo="" group-title="Server ID",Server ID: FOX Sport 3 FHD
+http://tvku.live:8888/IptvAdi/678ugt/3653
+#EXTINF:-1 tvg-id="nettv.id" tvg-name="NET TV" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV
+http://tvku.live:8888/IptvAdi/678ugt/24
+#EXTINF:-1 tvg-id="nettv.id" tvg-name="NET TV FHD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV FHD
+http://tvku.live:8888/IptvAdi/678ugt/78
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0" group-title="News",TVRI
+http://tvku.live:8888/IptvAdi/678ugt/36
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sport HD" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="Sports",TVRI Sport HD
+http://tvku.live:8888/IptvAdi/678ugt/3831
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="Lokal",Trans TV
+http://tvku.live:8888/IptvAdi/678ugt/34
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV FHD" tvg-logo="" group-title="Lokal",Trans TV FHD
+http://tvku.live:8888/IptvAdi/678ugt/929
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Lokal",Trans 7
+http://tvku.live:8888/IptvAdi/678ugt/35
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="" group-title="Lokal",Trans 7 FHD
+http://tvku.live:8888/IptvAdi/678ugt/930
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" group-title="Lokal",SCTV
+http://tvku.live:8888/IptvAdi/678ugt/32
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV FHD" tvg-logo="" group-title="Lokal",SCTV FHD
+http://tvku.live:8888/IptvAdi/678ugt/931
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="" group-title="Lokal",Indosiar
+http://tvku.live:8888/IptvAdi/678ugt/1845
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar HD" tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="Lokal",Indosiar HD
+http://tvku.live:8888/IptvAdi/678ugt/33
+#EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://pbs.twimg.com/profile_images/1039781395348914177/aW_orYDA_400x400.jpg" group-title="Lokal",O Channel
+http://tvku.live:8888/IptvAdi/678ugt/1727
+#EXTINF:-1 tvg-id="" tvg-name="RCTI Plus" tvg-logo="" group-title="Lokal",RCTI Plus
+http://tvku.live:8888/IptvAdi/678ugt/4523
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV Plus" tvg-logo="" group-title="Lokal",MNC TV Plus
+http://tvku.live:8888/IptvAdi/678ugt/4524
+#EXTINF:-1 tvg-id="" tvg-name="GTV Plus" tvg-logo="" group-title="Lokal",GTV Plus
+http://tvku.live:8888/IptvAdi/678ugt/4525
+#EXTINF:-1 tvg-id="" tvg-name="iNews Plus" tvg-logo="" group-title="Lokal",iNews Plus
+http://tvku.live:8888/IptvAdi/678ugt/4526
+#EXTINF:-1 tvg-id="" tvg-name="Liga 1 Indonesia" tvg-logo="https://ganteng.stream/liga1.png" group-title="Sports",Liga 1 Indonesia
+http://tvku.live:8888/IptvAdi/678ugt/1185
+#EXTINF:-1 tvg-id="" tvg-name="Liga 1 Indonesia 2" tvg-logo="https://ganteng.stream/liga1.png" group-title="Sports",Liga 1 Indonesia 2
+http://tvku.live:8888/IptvAdi/678ugt/1719
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="Lokal",ANTV
+http://tvku.live:8888/IptvAdi/678ugt/31
+#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="" group-title="News",Channel News Asia
+http://tvku.live:8888/IptvAdi/678ugt/1191
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="" group-title="News",CNBC Indonesia
+http://tvku.live:8888/IptvAdi/678ugt/1512
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="News",CNN Indonesia
+http://tvku.live:8888/IptvAdi/678ugt/44
+#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="" group-title="News",IDX
+http://tvku.live:8888/IptvAdi/678ugt/1771
+#EXTINF:-1 tvg-id="" tvg-name="CNN Int" tvg-logo="" group-title="News",CNN Int
+http://tvku.live:8888/IptvAdi/678ugt/1200
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu News" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="News",Berita Satu News
+http://tvku.live:8888/IptvAdi/678ugt/136
+#EXTINF:-1 tvg-id="" tvg-name="DW TV Asia" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-ASIA-670x300.jpg" group-title="News",DW TV Asia
+http://tvku.live:8888/IptvAdi/678ugt/205
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV ONE" tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="News",TV ONE
+http://tvku.live:8888/IptvAdi/678ugt/29
+#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Kompas TV" tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png?v=1.0.0.0" group-title="News",Kompas TV
+http://tvku.live:8888/IptvAdi/678ugt/30
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20101206120639%21New_MetroTV_Logo_2010.png" group-title="News",Metro TV FHD
+http://tvku.live:8888/IptvAdi/678ugt/1697
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" group-title="News",Metro TV
+http://tvku.live:8888/IptvAdi/678ugt/52
+#EXTINF:-1 tvg-id="" tvg-name="Bandung TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="Lokal",Bandung TV
+http://tvku.live:8888/IptvAdi/678ugt/1765
+#EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="Variety",Insert
+http://tvku.live:8888/IptvAdi/678ugt/1763
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV Asia" tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/jp-bloomberg-tv-asia.jpg" group-title="News",Bloomberg TV Asia
+http://tvku.live:8888/IptvAdi/678ugt/137
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="Rajawali TV" tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" group-title="Lokal",Rajawali TV
+http://tvku.live:8888/IptvAdi/678ugt/37
+#EXTINF:-1 tvg-id="" tvg-name="Spacetoon" tvg-logo="" group-title="Kids",Spacetoon
+http://tvku.live:8888/IptvAdi/678ugt/1541
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="" group-title="Kids",Baby First
+http://tvku.live:8888/IptvAdi/678ugt/1204
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="" group-title="Kids",Dunia Anak
+http://tvku.live:8888/IptvAdi/678ugt/907
+#EXTINF:-1 tvg-id="" tvg-name="Toonmax" tvg-logo="" group-title="Kids",Toonmax
+http://tvku.live:8888/IptvAdi/678ugt/1116
+#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="Disney XD" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/getpubliccontent?contentId=01ea7e32-190e-4088-99af-ef9842773879" group-title="Kids",Disney XD
+http://tvku.live:8888/IptvAdi/678ugt/104
+#EXTINF:-1 tvg-id="" tvg-name="Disney UK" tvg-logo="" group-title="Kids",Disney UK
+http://tvku.live:8888/IptvAdi/678ugt/2336
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="Kids",Duck TV
+http://tvku.live:8888/IptvAdi/678ugt/1854
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nick Toons" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/f/fe/Nicktoons_SPLAT%21.PNG/revision/latest?cb=20171006010144" group-title="Kids",Nick Toons
+http://tvku.live:8888/IptvAdi/678ugt/335
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon ID
+http://tvku.live:8888/IptvAdi/678ugt/962
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr ID" tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="Kids",Nick Jr ID
+http://tvku.live:8888/IptvAdi/678ugt/522
+#EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/5b/DreamWorks_Animation_SKG_logo.png" group-title="Kids",Dream Works HD
+http://tvku.live:8888/IptvAdi/678ugt/936
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel
+http://tvku.live:8888/IptvAdi/678ugt/306
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel ID" tvg-logo="" group-title="Kids",Disney Channel ID
+http://tvku.live:8888/IptvAdi/678ugt/3479
+#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids",Cartoon Network ID HD
+http://tvku.live:8888/IptvAdi/678ugt/680
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network ID FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids",Cartoon Network ID FHD
+http://tvku.live:8888/IptvAdi/678ugt/1532
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="https://yt3.ggpht.com/a-/AJLlDp3iSf8EJ-cop8fRkxIKeU7JnMJvDtLWjbsKlA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Kids",Boomerang HD
+http://tvku.live:8888/IptvAdi/678ugt/305
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://4.bp.blogspot.com/_WEmgbnumRFY/SO9bwY05QtI/AAAAAAAAGsY/EALyb7B2MVk/s400/Baby_tv.jpg" group-title="Kids",Baby TV
+http://tvku.live:8888/IptvAdi/678ugt/296
+#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Nick-jr-2-logo-i1.png/revision/latest?cb=20161111232146" group-title="Kids",Nick Jr 2
+http://tvku.live:8888/IptvAdi/678ugt/341
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="Disney Junior" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/disney-jr-post.jpg" group-title="Kids",Disney Junior
+http://tvku.live:8888/IptvAdi/678ugt/213
+#EXTINF:-1 tvg-id="" tvg-name="U Channel" tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="Lokal",U Channel
+http://tvku.live:8888/IptvAdi/678ugt/1208
+#EXTINF:-1 tvg-id="" tvg-name="Life" tvg-logo="" group-title="Lokal",Life
+http://tvku.live:8888/IptvAdi/678ugt/1772
+#EXTINF:-1 tvg-id="" tvg-name="Jak TV" tvg-logo="" group-title="Lokal",Jak TV
+http://tvku.live:8888/IptvAdi/678ugt/1210
+#EXTINF:-1 tvg-id="DaaiTv.id" tvg-name="DAAI TV" tvg-logo="http://images2.useetv.com/logo_daaitv_big1.png?v=1.0.0.0" group-title="Lokal",DAAI TV
+http://tvku.live:8888/IptvAdi/678ugt/21
+#EXTINF:-1 tvg-id="" tvg-name="TV Mu" tvg-logo="https://i.ibb.co/4ZRL8HW/tvmu.jpg" group-title="Religi",TV Mu
+http://tvku.live:8888/IptvAdi/678ugt/1726
+#EXTINF:-1 tvg-id="" tvg-name="Makkah TV" tvg-logo="https://lh3.googleusercontent.com/Z7OKkgpN2zx_3bGJU7_soaVAJhtJXYE26UVhb9yomFLPjfhVIZ7K0L-6b1f7kcGH5KI-=h355" group-title="Religi",Makkah TV
+http://tvku.live:8888/IptvAdi/678ugt/297
+#EXTINF:-1 tvg-id="" tvg-name="Madina TV" tvg-logo="" group-title="Religi",Madina TV
+http://tvku.live:8888/IptvAdi/678ugt/912
+#EXTINF:-1 tvg-id="" tvg-name="Akhyar TV" tvg-logo="" group-title="Religi",Akhyar TV
+http://tvku.live:8888/IptvAdi/678ugt/941
+#EXTINF:-1 tvg-id="" tvg-name="Ashiil TV" tvg-logo="" group-title="Religi",Ashiil TV
+http://tvku.live:8888/IptvAdi/678ugt/1503
+#EXTINF:-1 tvg-id="" tvg-name="SurauTV" tvg-logo="" group-title="Religi",SurauTV
+http://tvku.live:8888/IptvAdi/678ugt/2403
+#EXTINF:-1 tvg-id="" tvg-name="Asjawa TV" tvg-logo="" group-title="Religi",Asjawa TV
+http://tvku.live:8888/IptvAdi/678ugt/944
+#EXTINF:-1 tvg-id="" tvg-name="Wesal TV" tvg-logo="" group-title="Religi",Wesal TV
+http://tvku.live:8888/IptvAdi/678ugt/951
+#EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="" group-title="Lokal",Bali TV
+http://tvku.live:8888/IptvAdi/678ugt/889
+#EXTINF:-1 tvg-id="" tvg-name="Dangdutz" tvg-logo="" group-title="Music",Dangdutz
+http://tvku.live:8888/IptvAdi/678ugt/883
+#EXTINF:-1 tvg-id="" tvg-name="T Music" tvg-logo="" group-title="Music",T Music
+http://tvku.live:8888/IptvAdi/678ugt/905
+#EXTINF:-1 tvg-id="" tvg-name="KitaNesia" tvg-logo="" group-title="Lokal",KitaNesia
+http://tvku.live:8888/IptvAdi/678ugt/607
+#EXTINF:-1 tvg-id="" tvg-name="Nu Channel" tvg-logo="" group-title="Lokal",Nu Channel
+http://tvku.live:8888/IptvAdi/678ugt/611
+#EXTINF:-1 tvg-id="" tvg-name="Saling Sapa" tvg-logo="" group-title="Religi",Saling Sapa
+http://tvku.live:8888/IptvAdi/678ugt/606
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="" group-title="Religi",Rodja TV
+http://tvku.live:8888/IptvAdi/678ugt/843
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="http://webtvonlive.com/wp-content/uploads/JTV-webtvonlive-com.jpg" group-title="Lokal",JTV
+http://tvku.live:8888/IptvAdi/678ugt/135
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="" group-title="Lokal",Dunia Lain
+http://tvku.live:8888/IptvAdi/678ugt/910
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="https://images.useetv.com/tvposter/galaxy.png" group-title="Movie",Galaxy
+http://tvku.live:8888/IptvAdi/678ugt/1698
+#EXTINF:-1 tvg-id="" tvg-name="J'Go HD" tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f.jpeg" group-title="Movie",J'Go HD
+http://tvku.live:8888/IptvAdi/678ugt/1487
+#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://imgbbb.com/images/2019/04/30/bioskopindonesia.png" group-title="Movie",Bioskop Indonesia
+http://tvku.live:8888/IptvAdi/678ugt/908
+#EXTINF:-1 tvg-id="" tvg-name="Flik HD" tvg-logo="https://pbs.twimg.com/profile_images/694086000067235840/j1VRXvlT_400x400.jpg" group-title="Movie",Flik HD
+http://tvku.live:8888/IptvAdi/678ugt/1497
+#EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png" group-title="Movie",HITS
+http://tvku.live:8888/IptvAdi/678ugt/1195
+#EXTINF:-1 tvg-id="" tvg-name="Hits Movie" tvg-logo="" group-title="Movie",Hits Movie
+http://tvku.live:8888/IptvAdi/678ugt/957
+#EXTINF:-1 tvg-id="" tvg-name="SBS IN HD" tvg-logo="https://4.bp.blogspot.com/-mDW8Pz6tG-Q/WqBwxt1pXZI/AAAAAAAAAKQ/17Ly3Rs_XkkmJVi6jl0YvirfD4VCRLEzwCLcBGAs/s1600/sbs.png" group-title="Korea TV",SBS IN HD
+http://tvku.live:8888/IptvAdi/678ugt/1202
+#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png" group-title="Korea TV",KBS World
+http://tvku.live:8888/IptvAdi/678ugt/1521
+#EXTINF:-1 tvg-id="" tvg-name="OH!k FHD Trial" tvg-logo="" group-title="Korea TV",OH!k FHD Trial
+http://tvku.live:8888/IptvAdi/678ugt/5665
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://imgbbb.com/images/2019/04/30/cinema-world-lg.jpg" group-title="Movie",Cinema World
+http://tvku.live:8888/IptvAdi/678ugt/1194
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="Movie",Star Chinese Movies Legend
+http://tvku.live:8888/IptvAdi/678ugt/1859
+#EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="" group-title="Movie",CCM
+http://tvku.live:8888/IptvAdi/678ugt/2118
+#EXTINF:-1 tvg-id="FOXMovies.id" tvg-name="FOX Movies HD" tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="Movie",FOX Movies HD
+http://tvku.live:8888/IptvAdi/678ugt/98
+#EXTINF:-1 tvg-id="" tvg-name="FOX Movies HD Backup" tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="Movie",FOX Movies HD Backup
+http://tvku.live:8888/IptvAdi/678ugt/978
+#EXTINF:-1 tvg-id="" tvg-name="FOX Movies FHD" tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="Movie",FOX Movies FHD
+http://tvku.live:8888/IptvAdi/678ugt/1205
+#EXTINF:-1 tvg-id="FOXMovies.id" tvg-name="FOX Movies SD" tvg-logo="" group-title="Movie",FOX Movies SD
+http://tvku.live:8888/IptvAdi/678ugt/3333
+#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="Movie",FOX Action Movies HD
+http://tvku.live:8888/IptvAdi/678ugt/99
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action Movies HD Backup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="Movie",FOX Action Movies HD Backup
+http://tvku.live:8888/IptvAdi/678ugt/979
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action Movies FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="Movie",FOX Action Movies FHD
+http://tvku.live:8888/IptvAdi/678ugt/1478
+#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="Movie",FOX Action Movies SD
+http://tvku.live:8888/IptvAdi/678ugt/1125
+#EXTINF:-1 tvg-id="FOXFamilyMovies.id" tvg-name="FOX Family Movies ID" tvg-logo="http://whatson.dens.tv/media/img/fox-family-movies.jpg" group-title="Movie",FOX Family Movies ID
+http://tvku.live:8888/IptvAdi/678ugt/100
+#EXTINF:-1 tvg-id="FOXFamilyMovies.id" tvg-name="FOX Family Movies EN" tvg-logo="http://whatson.dens.tv/media/img/fox-family-movies.jpg" group-title="Movie",FOX Family Movies EN
+http://tvku.live:8888/IptvAdi/678ugt/1493
+#EXTINF:-1 tvg-id="FOXCrime.id" tvg-name="FOX Crime HD" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox-Crime.png" group-title="Movie",FOX Crime HD
+http://tvku.live:8888/IptvAdi/678ugt/763
+#EXTINF:-1 tvg-id="" tvg-name="FOX Crime HD Backup" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox-Crime.png" group-title="Movie",FOX Crime HD Backup
+http://tvku.live:8888/IptvAdi/678ugt/1483
+#EXTINF:-1 tvg-id="" tvg-name="FOX Crime FHD" tvg-logo="" group-title="Movie",FOX Crime FHD
+http://tvku.live:8888/IptvAdi/678ugt/3334
+#EXTINF:-1 tvg-id="" tvg-name="FOX Crime SD" tvg-logo="" group-title="Movie",FOX Crime SD
+http://tvku.live:8888/IptvAdi/678ugt/2257
+#EXTINF:-1 tvg-id="NatGeoWild.id" tvg-name="National Geographic Wild HD" tvg-logo="http://j2-play.tv/cover/live/doc/natgeowild.png" group-title="Knowledge",National Geographic Wild HD
+http://tvku.live:8888/IptvAdi/678ugt/97
+#EXTINF:-1 tvg-id="FoxLife.id" tvg-name="FOX Life HD" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_life_it.png" group-title="Movie",FOX Life HD
+http://tvku.live:8888/IptvAdi/678ugt/94
+#EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX HD" tvg-logo="https://imgbbb.com/images/2019/04/30/1200px-FOX_wordmark-orange.svg.png" group-title="Movie",FOX HD
+http://tvku.live:8888/IptvAdi/678ugt/95
+#EXTINF:-1 tvg-id="FX.id" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="Movie",FX HD
+http://tvku.live:8888/IptvAdi/678ugt/776
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Diva HD" tvg-logo="https://www.irisprize.org/wp-content/uploads/2017/05/DIVA_logo-big.png" group-title="Movie",Diva HD
+http://tvku.live:8888/IptvAdi/678ugt/841
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://img.pngio.com/hbo-logo-hbo-logo-png-free-transparent-png-download-pngkey-hbo-png-820_360.png" group-title="Movie",HBO HD
+http://tvku.live:8888/IptvAdi/678ugt/210
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="Movie",HBO FHD
+http://tvku.live:8888/IptvAdi/678ugt/1496
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits HD
+http://tvku.live:8888/IptvAdi/678ugt/591
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO Family HD
+http://tvku.live:8888/IptvAdi/678ugt/592
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://imgbbb.com/images/2019/04/30/HBO_Signature_Asia.png" group-title="Movie",HBO Signature HD
+http://tvku.live:8888/IptvAdi/678ugt/873
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature FHD" tvg-logo="https://imgbbb.com/images/2019/04/30/HBO_Signature_Asia.png" group-title="Movie",HBO Signature FHD
+http://tvku.live:8888/IptvAdi/678ugt/1498
+#EXTINF:-1 tvg-id="RED.id" tvg-name="Red by HBO HD" tvg-logo="https://imgbbb.com/images/2019/04/30/REDBYHBO.png" group-title="Movie",Red by HBO HD
+http://tvku.live:8888/IptvAdi/678ugt/874
+#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie",Cinemax HD
+http://tvku.live:8888/IptvAdi/678ugt/796
+#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie",Cinemax ID
+http://tvku.live:8888/IptvAdi/678ugt/2156
+#EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime" tvg-logo="https://imgbbb.com/images/2019/04/30/Lifetime_tv_logo.png" group-title="Movie",LifeTime
+http://tvku.live:8888/IptvAdi/678ugt/866
+#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://imgbbb.com/images/2019/04/30/wbtv.png" group-title="Movie",Warner TV ID HD
+http://tvku.live:8888/IptvAdi/678ugt/1533
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Movie",Star Chinese Movies HD
+http://tvku.live:8888/IptvAdi/678ugt/780
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme" tvg-logo="https://imgbbb.com/images/2019/04/30/Blue_ant_extreme_logo.png" group-title="Movie",Blue Ant Extreme
+http://tvku.live:8888/IptvAdi/678ugt/811
+#EXTINF:-1 tvg-id="WakuWakuJapan.id" tvg-name="Waku Waku Japan HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Variety",Waku Waku Japan HD
+http://tvku.live:8888/IptvAdi/678ugt/717
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Variety",HGTV
+http://tvku.live:8888/IptvAdi/678ugt/537
+#EXTINF:-1 tvg-id="asianfoodchannel.id" tvg-name="AFC HD" tvg-logo="" group-title="Variety",AFC HD
+http://tvku.live:8888/IptvAdi/678ugt/807
+#EXTINF:-1 tvg-id="tvnmovies.id" tvg-name="tVN Movies" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" group-title="Korea TV",tVN Movies
+http://tvku.live:8888/IptvAdi/678ugt/927
+#EXTINF:-1 tvg-id="NatGeo.id" tvg-name="National Geographic Channel HD" tvg-logo="http://j2-play.tv/cover/live/doc/nationalgeographic.png" group-title="Knowledge",National Geographic Channel HD
+http://tvku.live:8888/IptvAdi/678ugt/96
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Channel SD" tvg-logo="" group-title="Knowledge",National Geographic Channel SD
+http://tvku.live:8888/IptvAdi/678ugt/1504
+#EXTINF:-1 tvg-id="NatGeoPeople.id" tvg-name="National Geographic People" tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/NatGeo_People_logo-628x353.gif" group-title="Knowledge",National Geographic People
+http://tvku.live:8888/IptvAdi/678ugt/455
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Channel Backup" tvg-logo="" group-title="Knowledge",National Geographic Channel Backup
+http://tvku.live:8888/IptvAdi/678ugt/1445
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild Backup" tvg-logo="" group-title="Knowledge",National Geographic Wild Backup
+http://tvku.live:8888/IptvAdi/678ugt/1446
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic People Backup" tvg-logo="" group-title="Knowledge",National Geographic People Backup
+http://tvku.live:8888/IptvAdi/678ugt/1447
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/History_logo_2008.png/revision/latest?cb=20091117122440" group-title="Knowledge",History HD
+http://tvku.live:8888/IptvAdi/678ugt/718
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet HD" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg" group-title="Knowledge",Animal Planet HD
+http://tvku.live:8888/IptvAdi/678ugt/358
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel HD" tvg-logo="http://cdn.marketplaceimages.windowsphone.com/v8/images/c6cf7418-7242-4092-a55a-28c7dd336f40?imageType=ws_icon_large" group-title="Knowledge",Discovery Channel HD
+http://tvku.live:8888/IptvAdi/678ugt/165
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="" group-title="Knowledge",Discovery Asia
+http://tvku.live:8888/IptvAdi/678ugt/779
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Discovery_Science_HD.png/revision/latest?cb=20161213133552" group-title="Knowledge",Discovery Science HD
+http://tvku.live:8888/IptvAdi/678ugt/408
+#EXTINF:-1 tvg-id="DiscoveryShed.uk" tvg-name="Discovery Shed" tvg-logo="https://pbs.twimg.com/profile_images/712196436495044608/XdMFfe5Q.jpg" group-title="Knowledge",Discovery Shed
+http://tvku.live:8888/IptvAdi/678ugt/333
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Knowledge",Discovery Turbo
+http://tvku.live:8888/IptvAdi/678ugt/462
+#EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="http://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/crime-investigation/logo/large.jpg" group-title="Knowledge",Crime Investigation
+http://tvku.live:8888/IptvAdi/678ugt/332
+#EXTINF:-1 tvg-id="eentertainment.id" tvg-name="E!" tvg-logo="https://www.bottlerocketstudios.com/wp-content/uploads/2016/08/E-Network-Logo.png" group-title="Variety",E!
+http://tvku.live:8888/IptvAdi/678ugt/490
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zing TV" tvg-logo="" group-title="India",IN: Zing TV
+http://tvku.live:8888/IptvAdi/678ugt/813
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Food Network TH" tvg-logo="" group-title="Variety",Food Network TH
+http://tvku.live:8888/IptvAdi/678ugt/625
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="Variety",Fashion TV
+http://tvku.live:8888/IptvAdi/678ugt/280
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Sony ONE" tvg-logo="http://images2.useetv.com/logo_sone_big1.png?v=1.0.0.0" group-title="Korea TV",Sony ONE
+http://tvku.live:8888/IptvAdi/678ugt/19
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera EN" tvg-logo="http://dens.tv/images/channel-logo/56.jpg" group-title="News",Aljazeera EN
+http://tvku.live:8888/IptvAdi/678ugt/89
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://s3-media4.fl.yelpcdn.com/bphoto/xuNr5M3m2xoUkfEAxFf8oA/ls.jpg" group-title="Sports",Tennis Channel
+http://tvku.live:8888/IptvAdi/678ugt/482
+#EXTINF:-1 tvg-id="" tvg-name="Super Tennis" tvg-logo="http://frocus.net/images/logotv/original/super-tennis.jpg" group-title="Sports",Super Tennis
+http://tvku.live:8888/IptvAdi/678ugt/2259
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk6inbOH58fazeEgCQdAtua7ejGdoLdJWbPO_hHLNuO2qYZ4sx" group-title="Variety",DMAX
+http://tvku.live:8888/IptvAdi/678ugt/483
+#EXTINF:-1 tvg-id="" tvg-name="K Drama" tvg-logo="https://cdn.ketemulagi.net/wp-content/uploads/2016/10/Jadwal-LBS-Tv-K-Drama.jpg" group-title="Korea TV",K Drama
+http://tvku.live:8888/IptvAdi/678ugt/1699
+#EXTINF:-1 tvg-id="Kplus.id" tvg-name="K Plus" tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" group-title="Korea TV",K Plus
+http://tvku.live:8888/IptvAdi/678ugt/18
+#EXTINF:-1 tvg-id="StarWorld.in" tvg-name="Star World" tvg-logo="https://i0.wp.com/www.vietcv.net/wp-content/uploads/2017/05/7e928a92-3ca2-11e7-b99f-cac091044fd5.jpg?resize=700%2C400" group-title="Movie",Star World
+http://tvku.live:8888/IptvAdi/678ugt/381
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://cms.exchange4media.com/files/article/article_extra_large_image/1501052700_eRNRXw_69831.jpg" group-title="Knowledge",BBC Earth
+http://tvku.live:8888/IptvAdi/678ugt/385
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" group-title="India",IN: Sony Max HD
+http://tvku.live:8888/IptvAdi/678ugt/180
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop" tvg-logo="http://images2.useetv.com/logo_zbioskop_big1.png?v=1.0.0.0" group-title="Movie",Zee Bioskop
+http://tvku.live:8888/IptvAdi/678ugt/7
+#EXTINF:-1 tvg-id="" tvg-name="FMN" tvg-logo="" group-title="Variety",FMN
+http://tvku.live:8888/IptvAdi/678ugt/2138
+#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="http://cdn2.tstatic.net/makassar/foto/bank/images/thrill1_20160505_105220.jpg" group-title="Movie",Thrill
+http://tvku.live:8888/IptvAdi/678ugt/4
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="Movie",KIX
+http://tvku.live:8888/IptvAdi/678ugt/8
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="Movie",Celestial Movies
+http://tvku.live:8888/IptvAdi/678ugt/5
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="Movie",AXN
+http://tvku.live:8888/IptvAdi/678ugt/9
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="Kids",Aniplus
+http://tvku.live:8888/IptvAdi/678ugt/2
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Kids",Animax
+http://tvku.live:8888/IptvAdi/678ugt/3
+#EXTINF:-1 tvg-id="" tvg-name="Animax Backup" tvg-logo="" group-title="Kids",Animax Backup
+http://tvku.live:8888/IptvAdi/678ugt/1196
+#EXTINF:-1 tvg-id="ChannelV.in" tvg-name="Channel V Int" tvg-logo="" group-title="Music",Channel V Int
+http://tvku.live:8888/IptvAdi/678ugt/766
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="S GEM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpM4ePgskZ0MwYEYal1_C-4H9NYHSwFl5ZHbhvWuoTzdDKYM0s" group-title="Korea TV",S GEM HD
+http://tvku.live:8888/IptvAdi/678ugt/770
+#EXTINF:-1 tvg-id="tvn.id" tvg-name="TVN HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="Korea TV",TVN HD
+http://tvku.live:8888/IptvAdi/678ugt/767
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="News",Bloomberg
+http://tvku.live:8888/IptvAdi/678ugt/788
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="" group-title="News",France 24
+http://tvku.live:8888/IptvAdi/678ugt/787
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="" group-title="Variety",NHK World Japan
+http://tvku.live:8888/IptvAdi/678ugt/785
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 Monde Asie" tvg-logo="" group-title="Variety",TV 5 Monde Asie
+http://tvku.live:8888/IptvAdi/678ugt/786
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News HD" tvg-logo="" group-title="News",BBC World News HD
+http://tvku.live:8888/IptvAdi/678ugt/789
+#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Kids",CBeebies
+http://tvku.live:8888/IptvAdi/678ugt/491
+#EXTINF:-1 tvg-id="" tvg-name="Every Good Game" tvg-logo="" group-title="Variety",Every Good Game
+http://tvku.live:8888/IptvAdi/678ugt/921
+#EXTINF:-1 tvg-id="" tvg-name="TVRI ACEH" tvg-logo="" group-title="Lokal",TVRI ACEH
+http://tvku.live:8888/IptvAdi/678ugt/1733
+#EXTINF:-1 tvg-id="" tvg-name="TVRI BALI" tvg-logo="" group-title="Lokal",TVRI BALI
+http://tvku.live:8888/IptvAdi/678ugt/1745
+#EXTINF:-1 tvg-id="" tvg-name="TVRI BANGKA BELITUNG" tvg-logo="" group-title="Lokal",TVRI BANGKA BELITUNG
+http://tvku.live:8888/IptvAdi/678ugt/1740
+#EXTINF:-1 tvg-id="" tvg-name="TVRI BENGKULU" tvg-logo="" group-title="Lokal",TVRI BENGKULU
+http://tvku.live:8888/IptvAdi/678ugt/1741
+#EXTINF:-1 tvg-id="" tvg-name="TVRI BUDAYA" tvg-logo="" group-title="Lokal",TVRI BUDAYA
+http://tvku.live:8888/IptvAdi/678ugt/1734
+#EXTINF:-1 tvg-id="" tvg-name="TVRI DKI" tvg-logo="" group-title="Lokal",TVRI DKI
+http://tvku.live:8888/IptvAdi/678ugt/1762
+#EXTINF:-1 tvg-id="" tvg-name="TVRI GORONTALO" tvg-logo="" group-title="Lokal",TVRI GORONTALO
+http://tvku.live:8888/IptvAdi/678ugt/1759
+#EXTINF:-1 tvg-id="" tvg-name="TVRI JAMBI" tvg-logo="" group-title="Lokal",TVRI JAMBI
+http://tvku.live:8888/IptvAdi/678ugt/1739
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Jawa Tengah" tvg-logo="" group-title="Lokal",TVRI Jawa Tengah
+http://tvku.live:8888/IptvAdi/678ugt/1743
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Jawa Timur" tvg-logo="" group-title="Lokal",TVRI Jawa Timur
+http://tvku.live:8888/IptvAdi/678ugt/1744
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Barat" tvg-logo="" group-title="Lokal",TVRI Kalimantan Barat
+http://tvku.live:8888/IptvAdi/678ugt/1749
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Selatan" tvg-logo="" group-title="Lokal",TVRI Kalimantan Selatan
+http://tvku.live:8888/IptvAdi/678ugt/1752
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Tengah" tvg-logo="" group-title="Lokal",TVRI Kalimantan Tengah
+http://tvku.live:8888/IptvAdi/678ugt/1750
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Timur" tvg-logo="" group-title="Lokal",TVRI Kalimantan Timur
+http://tvku.live:8888/IptvAdi/678ugt/1751
+#EXTINF:-1 tvg-id="" tvg-name="TVRI LAMPUNG" tvg-logo="" group-title="Lokal",TVRI LAMPUNG
+http://tvku.live:8888/IptvAdi/678ugt/1742
+#EXTINF:-1 tvg-id="" tvg-name="TVRI MALUKU" tvg-logo="" group-title="Lokal",TVRI MALUKU
+http://tvku.live:8888/IptvAdi/678ugt/1758
+#EXTINF:-1 tvg-id="" tvg-name="TVRI NASIONAL BANDUNG" tvg-logo="" group-title="Lokal",TVRI NASIONAL BANDUNG
+http://tvku.live:8888/IptvAdi/678ugt/1761
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Nusa Tenggara Barat" tvg-logo="" group-title="Lokal",TVRI Nusa Tenggara Barat
+http://tvku.live:8888/IptvAdi/678ugt/1747
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Nusa Tenggara Timur" tvg-logo="" group-title="Lokal",TVRI Nusa Tenggara Timur
+http://tvku.live:8888/IptvAdi/678ugt/1748
+#EXTINF:-1 tvg-id="" tvg-name="TVRI PAPUA" tvg-logo="" group-title="Lokal",TVRI PAPUA
+http://tvku.live:8888/IptvAdi/678ugt/1760
+#EXTINF:-1 tvg-id="" tvg-name="TVRI RIAU" tvg-logo="" group-title="Lokal",TVRI RIAU
+http://tvku.live:8888/IptvAdi/678ugt/1738
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Barat" tvg-logo="" group-title="Lokal",TVRI Sulawesi Barat
+http://tvku.live:8888/IptvAdi/678ugt/1753
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Selatan" tvg-logo="" group-title="Lokal",TVRI Sulawesi Selatan
+http://tvku.live:8888/IptvAdi/678ugt/1754
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Tengah" tvg-logo="" group-title="Lokal",TVRI Sulawesi Tengah
+http://tvku.live:8888/IptvAdi/678ugt/1757
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Tenggara" tvg-logo="" group-title="Lokal",TVRI Sulawesi Tenggara
+http://tvku.live:8888/IptvAdi/678ugt/1756
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Utara" tvg-logo="" group-title="Lokal",TVRI Sulawesi Utara
+http://tvku.live:8888/IptvAdi/678ugt/1755
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sumatera Barat" tvg-logo="" group-title="Lokal",TVRI Sumatera Barat
+http://tvku.live:8888/IptvAdi/678ugt/1736
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sumatera Selatan" tvg-logo="" group-title="Lokal",TVRI Sumatera Selatan
+http://tvku.live:8888/IptvAdi/678ugt/1737
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sumatera Utara" tvg-logo="" group-title="Lokal",TVRI Sumatera Utara
+http://tvku.live:8888/IptvAdi/678ugt/1735
+#EXTINF:-1 tvg-id="" tvg-name="TVRI YOGYAKARTA" tvg-logo="" group-title="Lokal",TVRI YOGYAKARTA
+http://tvku.live:8888/IptvAdi/678ugt/1746
+#EXTINF:-1 tvg-id="" tvg-name="Zoom TV" tvg-logo="" group-title="Music",Zoom TV
+http://tvku.live:8888/IptvAdi/678ugt/815
+#EXTINF:-1 tvg-id="" tvg-name="Prambors TV" tvg-logo="" group-title="Music",Prambors TV
+http://tvku.live:8888/IptvAdi/678ugt/1157
+#EXTINF:-1 tvg-id="" tvg-name="ONE African TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Oneafricasmall.png" group-title="Music",ONE African TV
+http://tvku.live:8888/IptvAdi/678ugt/1731
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://fimgs.net/images/dizajneri/o.2508.jpg" group-title="Music",MTV
+http://tvku.live:8888/IptvAdi/678ugt/281
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="MTV Music" tvg-logo="https://2.bp.blogspot.com/-bqsxJ-eLvss/VxU5ap-tOwI/AAAAAAAABcM/hlkUmYXTa-4Y3IA_-fx0uuGHIwJrs0ekQCLcB/s1600/U35f_aGI.png" group-title="Music",MTV Music
+http://tvku.live:8888/IptvAdi/678ugt/286
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV Hits" tvg-logo="https://pbs.twimg.com/profile_images/937527078093811712/f81yQzER_400x400.jpg" group-title="Music",MTV Hits
+http://tvku.live:8888/IptvAdi/678ugt/287
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Dance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/MTV_Dance_2017_logo_Australia.svg/1200px-MTV_Dance_2017_logo_Australia.svg.png" group-title="Music",MTV Dance
+http://tvku.live:8888/IptvAdi/678ugt/288
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png" group-title="Music",MTV Classic
+http://tvku.live:8888/IptvAdi/678ugt/289
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Base" tvg-logo="https://pbs.twimg.com/profile_images/902409324022128640/9vbFe5yn_400x400.jpg" group-title="Music",MTV Base
+http://tvku.live:8888/IptvAdi/678ugt/291
+#EXTINF:-1 tvg-id="" tvg-name="Trace Naija" tvg-logo="https://pbs.twimg.com/profile_images/809695962256052225/Ayc3Rv9A_400x400.jpg" group-title="Music",Trace Naija
+http://tvku.live:8888/IptvAdi/678ugt/113
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="http://i2.wp.com/footprint2africa.com/wp-content/uploads/2017/03/Trace-Urban-Logo.jpg?fit=564%2C423" group-title="Music",Trace Urban
+http://tvku.live:8888/IptvAdi/678ugt/106
+#EXTINF:-1 tvg-id="" tvg-name="Trace Mizki" tvg-logo="https://pbs.twimg.com/profile_images/764931661947600897/PMysWXwp_400x400.jpg" group-title="Music",Trace Mizki
+http://tvku.live:8888/IptvAdi/678ugt/109
+#EXTINF:-1 tvg-id="" tvg-name="Trace Africa" tvg-logo="http://originators.tv/views/img/clients/trace-africa.gif" group-title="Music",Trace Africa
+http://tvku.live:8888/IptvAdi/678ugt/108
+#EXTINF:-1 tvg-id="" tvg-name="Trace Tropical" tvg-logo="http://mx.trace.tv/img/TraceTrop/trace-tropical.jpg" group-title="Music",Trace Tropical
+http://tvku.live:8888/IptvAdi/678ugt/112
+#EXTINF:-1 tvg-id="" tvg-name="Trace Toca" tvg-logo="https://pbs.twimg.com/profile_images/786944696505475073/7gO9m6Io_400x400.jpg" group-title="Music",Trace Toca
+http://tvku.live:8888/IptvAdi/678ugt/111
+#EXTINF:-1 tvg-id="TLC.id" tvg-name="TLC HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="Variety",TLC HD
+http://tvku.live:8888/IptvAdi/678ugt/352
+#EXTINF:-1 tvg-id="" tvg-name="TLC English" tvg-logo="https://i.imgur.com/VuFFsjk.png" group-title="Variety",TLC English
+http://tvku.live:8888/IptvAdi/678ugt/351
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="https://imgbbb.com/images/2019/04/30/golfchannel.png" group-title="Sports",Golf Channel
+http://tvku.live:8888/IptvAdi/678ugt/561
+#EXTINF:-1 tvg-id="" tvg-name="Piala Indonesia" tvg-logo="" group-title="Sports",Piala Indonesia
+http://tvku.live:8888/IptvAdi/678ugt/2150
+#EXTINF:-1 tvg-id="" tvg-name="AFF Futsal Championship 2019" tvg-logo="" group-title="Sports",AFF Futsal Championship 2019
+http://tvku.live:8888/IptvAdi/678ugt/3104
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BeIN Sport 1 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="Sports",BeIN Sport 1 ID
+http://tvku.live:8888/IptvAdi/678ugt/728
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BeIN Sport 2 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="Sports",BeIN Sport 2 ID
+http://tvku.live:8888/IptvAdi/678ugt/729
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Max HD Malaysia" tvg-logo="" group-title="Sports",BeIN Max HD Malaysia
+http://tvku.live:8888/IptvAdi/678ugt/4272
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Max HD Malaysia 50fps" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/819_300.png" group-title="Sports",BeIN Max HD Malaysia 50fps
+http://tvku.live:8888/IptvAdi/678ugt/6003
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 1" tvg-logo="https://i.ibb.co/kXmjWQs/champion-1.jpg" group-title="Sports",Champions TV 1
+http://tvku.live:8888/IptvAdi/678ugt/2407
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 2" tvg-logo="https://i.ibb.co/n3rwXT4/champion-2.jpg" group-title="Sports",Champions TV 2
+http://tvku.live:8888/IptvAdi/678ugt/2409
+#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 2" tvg-logo="https://i.ibb.co/QCTH9tm/usee-sport-2.jpg" group-title="Sports",Usee Sport 2
+http://tvku.live:8888/IptvAdi/678ugt/2408
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro Super Sports 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/Pos/831_300.png" group-title="Sports",Astro Super Sports 1
+http://tvku.live:8888/IptvAdi/678ugt/2151
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro Super Sports 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/Pos/832_300.png" group-title="Sports",Astro Super Sports 2
+http://tvku.live:8888/IptvAdi/678ugt/2152
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro Super Sports 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/Pos/833_300.png" group-title="Sports",Astro Super Sports 3
+http://tvku.live:8888/IptvAdi/678ugt/2153
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro Super Sports 4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/Pos/834_300.png" group-title="Sports",Astro Super Sports 4
+http://tvku.live:8888/IptvAdi/678ugt/2154
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro Super Sports 1 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="Sports",Astro Super Sports 1 HD
+http://tvku.live:8888/IptvAdi/678ugt/4156
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro Super Sports 2 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png" group-title="Sports",Astro Super Sports 2 HD
+http://tvku.live:8888/IptvAdi/678ugt/4155
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro Super Sports 3 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/833_300.png" group-title="Sports",Astro Super Sports 3 HD
+http://tvku.live:8888/IptvAdi/678ugt/4154
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro Super Sports 4 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png" group-title="Sports",Astro Super Sports 4 HD
+http://tvku.live:8888/IptvAdi/678ugt/4153
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sports 1 HD 50fps" tvg-logo="" group-title="Sports",Astro Super Sports 1 HD 50fps
+http://tvku.live:8888/IptvAdi/678ugt/4834
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sports 2 HD 50fps" tvg-logo="" group-title="Sports",Astro Super Sports 2 HD 50fps
+http://tvku.live:8888/IptvAdi/678ugt/4835
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sports 3 HD 50fps" tvg-logo="" group-title="Sports",Astro Super Sports 3 HD 50fps
+http://tvku.live:8888/IptvAdi/678ugt/4836
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sports 4 HD 50fps" tvg-logo="" group-title="Sports",Astro Super Sports 4 HD 50fps
+http://tvku.live:8888/IptvAdi/678ugt/4837
+#EXTINF:-1 tvg-id="" tvg-name="Astro EPL 1 HD" tvg-logo="" group-title="Sports",Astro EPL 1 HD
+http://tvku.live:8888/IptvAdi/678ugt/4233
+#EXTINF:-1 tvg-id="" tvg-name="Astro EPL 2 HD" tvg-logo="" group-title="Sports",Astro EPL 2 HD
+http://tvku.live:8888/IptvAdi/678ugt/4234
+#EXTINF:-1 tvg-id="" tvg-name="Astro EPL 3 HD" tvg-logo="" group-title="Sports",Astro EPL 3 HD
+http://tvku.live:8888/IptvAdi/678ugt/4235
+#EXTINF:-1 tvg-id="" tvg-name="Astro EPL 1 HD 50fps" tvg-logo="" group-title="Sports",Astro EPL 1 HD 50fps
+http://tvku.live:8888/IptvAdi/678ugt/6008
+#EXTINF:-1 tvg-id="" tvg-name="Astro EPL 2 HD 50fps" tvg-logo="" group-title="Sports",Astro EPL 2 HD 50fps
+http://tvku.live:8888/IptvAdi/678ugt/6014
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena HD" tvg-logo="" group-title="Sports",Astro Arena HD
+http://tvku.live:8888/IptvAdi/678ugt/4236
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena HD 50fps" tvg-logo="" group-title="Sports",Astro Arena HD 50fps
+http://tvku.live:8888/IptvAdi/678ugt/4838
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD" tvg-logo="" group-title="Sports",Astro Cricket HD
+http://tvku.live:8888/IptvAdi/678ugt/4237
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1 HD Malaysia 50fps" tvg-logo="" group-title="Sports",FOX Sports 1 HD Malaysia 50fps
+http://tvku.live:8888/IptvAdi/678ugt/6004
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 HD Malaysia 50fps" tvg-logo="" group-title="Sports",FOX Sports 2 HD Malaysia 50fps
+http://tvku.live:8888/IptvAdi/678ugt/6005
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 HD Malaysia 50fps" tvg-logo="" group-title="Sports",FOX Sports 3 HD Malaysia 50fps
+http://tvku.live:8888/IptvAdi/678ugt/6006
+#EXTINF:-1 tvg-id="FOXSports1.my" tvg-name="Fox Sports 1" tvg-logo="https://imgbbb.com/images/2019/04/30/foxsports.png" group-title="Sports",Fox Sports 1
+http://tvku.live:8888/IptvAdi/678ugt/51
+#EXTINF:-1 tvg-id="FOXSports1.my" tvg-name="Fox Sports 1 HD Backup" tvg-logo="https://imgbbb.com/images/2019/04/30/foxsports.png" group-title="Sports",Fox Sports 1 HD Backup
+http://tvku.live:8888/IptvAdi/678ugt/1475
+#EXTINF:-1 tvg-id="FOXSports2.my" tvg-name="Fox Sports 2" tvg-logo="https://imgbbb.com/images/2019/04/30/fox-sport-21.png" group-title="Sports",Fox Sports 2
+http://tvku.live:8888/IptvAdi/678ugt/102
+#EXTINF:-1 tvg-id="FOXSports2.my" tvg-name="Fox Sports 2 HD Backup" tvg-logo="https://imgbbb.com/images/2019/04/30/fox-sport-21.png" group-title="Sports",Fox Sports 2 HD Backup
+http://tvku.live:8888/IptvAdi/678ugt/1476
+#EXTINF:-1 tvg-id="FOXSports3.my" tvg-name="Fox Sports 3" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_Sports_3_logo.png" group-title="Sports",Fox Sports 3
+http://tvku.live:8888/IptvAdi/678ugt/101
+#EXTINF:-1 tvg-id="FOXSports3.my" tvg-name="Fox Sports 3 HD Backup" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_Sports_3_logo.png" group-title="Sports",Fox Sports 3 HD Backup
+http://tvku.live:8888/IptvAdi/678ugt/1477
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://imgbbb.com/images/2019/04/30/images.png" group-title="Sports",Sky Sports F1
+http://tvku.live:8888/IptvAdi/678ugt/1507
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN HD" tvg-logo="https://media.nbcnewyork.com/images/652*367/NBCSN.jpg" group-title="Sports",NBCSN HD
+http://tvku.live:8888/IptvAdi/678ugt/2402
+#EXTINF:-1 tvg-id="" tvg-name="UFC FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png" group-title="Sports",UFC FHD
+http://tvku.live:8888/IptvAdi/678ugt/2401
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1" tvg-logo="https://imgbbb.com/images/2019/04/30/Arena-Sport-1.png" group-title="Sports",Arena Sport 1
+http://tvku.live:8888/IptvAdi/678ugt/965
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2" tvg-logo="https://imgbbb.com/images/2019/04/30/Arena-Sport-2.png" group-title="Sports",Arena Sport 2
+http://tvku.live:8888/IptvAdi/678ugt/966
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3" tvg-logo="https://imgbbb.com/images/2019/04/30/Arena-Sport-3.png" group-title="Sports",Arena Sport 3
+http://tvku.live:8888/IptvAdi/678ugt/967
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4" tvg-logo="https://imgbbb.com/images/2019/04/30/Arena-Sport-4.png" group-title="Sports",Arena Sport 4
+http://tvku.live:8888/IptvAdi/678ugt/968
+#EXTINF:-1 tvg-id="" tvg-name="Star Sport 1 HD" tvg-logo="https://imgbbb.com/images/2019/04/30/STAR_Sports_1_logo.png" group-title="Sports",Star Sport 1 HD
+http://tvku.live:8888/IptvAdi/678ugt/1183
+#EXTINF:-1 tvg-id="" tvg-name="Star Sport 2" tvg-logo="https://imgbbb.com/images/2019/04/30/star-sport-2.png" group-title="Sports",Star Sport 2
+http://tvku.live:8888/IptvAdi/678ugt/1184
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1 HD Airtel" tvg-logo="https://imgbbb.com/images/2019/04/30/sony-ten1-sd.png" group-title="Sports",Sony Ten 1 HD Airtel
+http://tvku.live:8888/IptvAdi/678ugt/619
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="Sony Ten 2 HD Airtel" tvg-logo="https://imgbbb.com/images/2019/04/30/sony-ten2.png" group-title="Sports",Sony Ten 2 HD Airtel
+http://tvku.live:8888/IptvAdi/678ugt/621
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 HD Airtel" tvg-logo="https://imgbbb.com/images/2019/04/30/312SONY-TEN3-SD_on-white-1024x819.png" group-title="Sports",Sony Ten 3 HD Airtel
+http://tvku.live:8888/IptvAdi/678ugt/623
+#EXTINF:-1 tvg-id="" tvg-name="PPTV HD" tvg-logo="https://imgbbb.com/images/2019/04/30/pptv.png" group-title="Sports",PPTV HD
+http://tvku.live:8888/IptvAdi/678ugt/605
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-1-HD.png" group-title="Sports",Eurosport 1
+http://tvku.live:8888/IptvAdi/678ugt/2224
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png" group-title="Sports",Eurosport 2
+http://tvku.live:8888/IptvAdi/678ugt/2225
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network" tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="Sports",MLB Network
+http://tvku.live:8888/IptvAdi/678ugt/2260
+#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="BeIN Sports 1" tvg-logo="http://1.bp.blogspot.com/-eBrm6Tge_hw/U8jypdokn2I/AAAAAAAAAcY/_VPQRakL9CE/s1600/beinsport-2012_logo_chaine1.jpg" group-title="Sports",BeIN Sports 1
+http://tvku.live:8888/IptvAdi/678ugt/10
+#EXTINF:-1 tvg-id="beIN Sports 2 ARB" tvg-name="BeIN Sports 2" tvg-logo="https://imgbbb.com/images/2019/04/30/bein-2.png" group-title="Sports",BeIN Sports 2
+http://tvku.live:8888/IptvAdi/678ugt/11
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="BeIN Sports 3" tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2016/08/BEIN3.png" group-title="Sports",BeIN Sports 3
+http://tvku.live:8888/IptvAdi/678ugt/12
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="BeIN Sports 4" tvg-logo="https://sourcetv.info/wp-content/uploads/2014/04/bein_sport_4.jpg" group-title="Sports",BeIN Sports 4
+http://tvku.live:8888/IptvAdi/678ugt/217
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="BeIN Sports 5" tvg-logo="http://www.liveonlinetv247.info/images/beinsports5.png" group-title="Sports",BeIN Sports 5
+http://tvku.live:8888/IptvAdi/678ugt/218
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="BeIN Sports 6" tvg-logo="http://www.liveonlinetv247.info/images/beinsports6.png" group-title="Sports",BeIN Sports 6
+http://tvku.live:8888/IptvAdi/678ugt/219
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="BeIN Sports 7" tvg-logo="http://www.liveonlinetv247.info/images/beinsports7.png" group-title="Sports",BeIN Sports 7
+http://tvku.live:8888/IptvAdi/678ugt/220
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="BeIN Sports 8" tvg-logo="http://www.liveonlinetv247.info/images/beinsports8.png" group-title="Sports",BeIN Sports 8
+http://tvku.live:8888/IptvAdi/678ugt/221
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="BeIN Sports 9" tvg-logo="http://www.liveonlinetv247.info/images/beinsports9.png" group-title="Sports",BeIN Sports 9
+http://tvku.live:8888/IptvAdi/678ugt/222
+#EXTINF:-1 tvg-id="beINSports10.qa" tvg-name="BeIN Sports 10" tvg-logo="https://3.bp.blogspot.com/-x3W3SdkYSuM/WmkVYrwuJ4I/AAAAAAAAC4k/JSRCJIbiNKIet3Tdk-y93GR_tSTcmTnZgCLcBGAs/s200/beinsports10.png" group-title="Sports",BeIN Sports 10
+http://tvku.live:8888/IptvAdi/678ugt/253
+#EXTINF:-1 tvg-id="beINSports11.qa" tvg-name="BeIN Sports 11" tvg-logo="https://2.bp.blogspot.com/-4J7yUTWwU9U/WkFNMLQsRyI/AAAAAAAACws/rKw306lslTgwNPGb43hDY-PuQAEfJzN6ACPcBGAYYCw/s200/Bein11.png" group-title="Sports",BeIN Sports 11
+http://tvku.live:8888/IptvAdi/678ugt/254
+#EXTINF:-1 tvg-id="beINSports12.qa" tvg-name="BeIN Sports 12" tvg-logo="http://www.liveonlinetv247.info/images/beinsports12.png" group-title="Sports",BeIN Sports 12
+http://tvku.live:8888/IptvAdi/678ugt/255
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 13" tvg-logo="" group-title="Sports",BeIN Sports 13
+http://tvku.live:8888/IptvAdi/678ugt/3246
+#EXTINF:-1 tvg-id="beINLaLiga.es" tvg-name="BeIN LaLiga" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="Sports",BeIN LaLiga
+http://tvku.live:8888/IptvAdi/678ugt/416
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://archive.org/services/img/BtSport1Hd_201708" group-title="Sports",BT Sport 1
+http://tvku.live:8888/IptvAdi/678ugt/319
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://archive.org/services/img/BtSport2Hd" group-title="Sports",BT Sport 2
+http://tvku.live:8888/IptvAdi/678ugt/320
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3" tvg-logo="https://2.bp.blogspot.com/-a530qk9GfWs/Wos6dMjBDAI/AAAAAAAADSs/qATrxQW0czwrJXxaj3wnPno8BBaummHmACLcBGAs/s200/BtSport3Hd.png" group-title="Sports",BT Sport 3
+http://tvku.live:8888/IptvAdi/678ugt/321
+#EXTINF:-1 tvg-id="" tvg-name="MU TV" tvg-logo="https://video.toggle.sg/image/9001988/16x9/947/533/998d326f612e921f010a0019edcab830/zb/mutv.png" group-title="Sports",MU TV
+http://tvku.live:8888/IptvAdi/678ugt/400
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN" tvg-logo="https://archive.org/services/img/BtSportEspnHd" group-title="Sports",BT Sport ESPN
+http://tvku.live:8888/IptvAdi/678ugt/399
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5 HD" tvg-logo="https://imgbbb.com/images/2019/04/30/CCTV-5.png" group-title="Sports",CCTV 5 HD
+http://tvku.live:8888/IptvAdi/678ugt/595
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5 HD+" tvg-logo="https://imgbbb.com/images/2019/04/30/CCTV-5a125b9b3c4575999.png" group-title="Sports",CCTV 5 HD+
+http://tvku.live:8888/IptvAdi/678ugt/814
+#EXTINF:-1 tvg-id="" tvg-name="Golf HD" tvg-logo="https://imgbbb.com/images/2019/04/30/golf-hd.jpg" group-title="Sports",Golf HD
+http://tvku.live:8888/IptvAdi/678ugt/864
+#EXTINF:-1 tvg-id="" tvg-name="ESL Indonesia" tvg-logo="https://gamepedia.cursecdn.com/lolesports_gamepedia_en/thumb/8/8d/ESL.png/1200px-ESL.png" group-title="Sports",ESL Indonesia
+http://210.210.155.35/session/a05c5ca2-5424-11e9-bebd-b82a72d63267/x6bnqe/s/s91/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="https://imgbbb.com/images/2019/04/30/FightSportsLogo2x.png" group-title="Sports",Fight Sports
+http://tvku.live:8888/IptvAdi/678ugt/784
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwAM7tsGvgCbbv30YAXs2-QDPNkU4TNiQuQ7zAgrtcCA94ZWjd" group-title="Sports",FIGHT BOX
+http://tvku.live:8888/IptvAdi/678ugt/501
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="Box Nation" tvg-logo="http://www.media15.tv/wp-content/uploads/2015/07/square-box-nation.jpg" group-title="Sports",Box Nation
+http://tvku.live:8888/IptvAdi/678ugt/499
+#EXTINF:-1 tvg-id="US: WWE NETWORK" tvg-name="WWE Network" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EVQDiJh1L.png" group-title="Sports",WWE Network
+http://tvku.live:8888/IptvAdi/678ugt/299
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="https://i2.cdscdn.com/pdt2/8/8/0/1/700x700/auc3663439084880/rw/sticker-autocollant-foot-real-madrid-dimensions.jpg" group-title="Sports",Real Madrid TV
+http://tvku.live:8888/IptvAdi/678ugt/244
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Variety",Blue Ant Entertainment
+http://tvku.live:8888/IptvAdi/678ugt/1506
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-3_29.png" group-title="Sports",NBA TV HD
+http://tvku.live:8888/IptvAdi/678ugt/3099
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD US" tvg-logo="http://static1.squarespace.com/static/57d836b1c534a5e4e6e7bf6f/57e0489e440243c6a9a6445c/5991a1df03596e7caf6a2028/1502722826069/2017+NBA+TV+Logo.jpg?format=1000w" group-title="Sports",NBA TV HD US
+http://tvku.live:8888/IptvAdi/678ugt/243
+#EXTINF:-1 tvg-id="SonyTENGOLF.in" tvg-name="Ten Golf HD" tvg-logo="https://imgbbb.com/images/2019/04/30/TEN_GOLF_HD_1.png" group-title="Sports",Ten Golf HD
+http://tvku.live:8888/IptvAdi/678ugt/224
+#EXTINF:-1 tvg-id="" tvg-name="Setanta Sport" tvg-logo="https://imgbbb.com/images/2019/04/30/setanta-sports.png" group-title="Sports",Setanta Sport
+http://tvku.live:8888/IptvAdi/678ugt/1199
+#EXTINF:-1 tvg-id="" tvg-name="Setanta Sports +" tvg-logo="https://www.arax.md/assets/channels/227.png" group-title="Sports",Setanta Sports +
+http://tvku.live:8888/IptvAdi/678ugt/2223
+#EXTINF:-1 tvg-id="" tvg-name="ESPN News" tvg-logo="http://a.espncdn.com/prod/assets/watchespn/appletv/images/channels-carousel/espnews.png" group-title="News",ESPN News
+http://tvku.live:8888/IptvAdi/678ugt/2221
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 1 HD 1080P" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301657_Sky_Sport_Bundesliga_1_HD.png" group-title="Sports",DE: Sky Sport Bundesliga 1 HD 1080P
+http://tvku.live:8888/IptvAdi/678ugt/2720
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 10 HD 1080P" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301666_Sky_Sport_Bundesliga_10_HD.png" group-title="Sports",DE: Sky Sport Bundesliga 10 HD 1080P
+http://tvku.live:8888/IptvAdi/678ugt/2721
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 2 HD 1080P" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301658_Sky_Sport_Bundesliga_2_HD.png" group-title="Sports",DE: Sky Sport Bundesliga 2 HD 1080P
+http://tvku.live:8888/IptvAdi/678ugt/2722
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 4 HD 1080P" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301660_Sky_Sport_Bundesliga_4_HD.png" group-title="Sports",DE: Sky Sport Bundesliga 4 HD 1080P
+http://tvku.live:8888/IptvAdi/678ugt/2724
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 3 HD 1080P" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301659_Sky_Sport_Bundesliga_3_HD.png" group-title="Sports",DE: Sky Sport Bundesliga 3 HD 1080P
+http://tvku.live:8888/IptvAdi/678ugt/2723
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 5 HD 1080P" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301661_Sky_Sport_Bundesliga_5_HD.png" group-title="Sports",DE: Sky Sport Bundesliga 5 HD 1080P
+http://tvku.live:8888/IptvAdi/678ugt/2725
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 6 HD 1080P" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301662_Sky_Sport_Bundesliga_6_HD.png" group-title="Sports",DE: Sky Sport Bundesliga 6 HD 1080P
+http://tvku.live:8888/IptvAdi/678ugt/2726
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 7 HD 1080P" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301663_Sky_Sport_Bundesliga_7_HD.png" group-title="Sports",DE: Sky Sport Bundesliga 7 HD 1080P
+http://tvku.live:8888/IptvAdi/678ugt/2727
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 8 HD 1080P" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301664_Sky_Sport_Bundesliga_8_HD.png" group-title="Sports",DE: Sky Sport Bundesliga 8 HD 1080P
+http://tvku.live:8888/IptvAdi/678ugt/2728
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 9 HD 1080P" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301665_Sky_Sport_Bundesliga_9_HD.png" group-title="Sports",DE: Sky Sport Bundesliga 9 HD 1080P
+http://tvku.live:8888/IptvAdi/678ugt/2729
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 backup" tvg-logo="" group-title="Sports",PT: Sport TV 1 backup
+http://tvku.live:8888/IptvAdi/678ugt/2730
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 HD backup" tvg-logo="" group-title="Sports",PT: Sport TV 1 HD backup
+http://tvku.live:8888/IptvAdi/678ugt/2731
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 HD backup" tvg-logo="" group-title="Sports",PT: Sport TV 2 HD backup
+http://tvku.live:8888/IptvAdi/678ugt/2733
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 backup" tvg-logo="" group-title="Sports",PT: Sport TV 2 backup
+http://tvku.live:8888/IptvAdi/678ugt/2732
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 backup" tvg-logo="" group-title="Sports",PT: Sport TV 3 backup
+http://tvku.live:8888/IptvAdi/678ugt/2734
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 HD backup" tvg-logo="" group-title="Sports",PT: Sport TV 3 HD backup
+http://tvku.live:8888/IptvAdi/678ugt/2735
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 backup" tvg-logo="" group-title="Sports",PT: Sport TV 4 backup
+http://tvku.live:8888/IptvAdi/678ugt/2736
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 HD backup" tvg-logo="" group-title="Sports",PT: Sport TV 4 HD backup
+http://tvku.live:8888/IptvAdi/678ugt/2737
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 backup" tvg-logo="" group-title="Sports",PT: Sport TV 5 backup
+http://tvku.live:8888/IptvAdi/678ugt/2738
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 HD backup" tvg-logo="" group-title="Sports",PT: Sport TV 5 HD backup
+http://tvku.live:8888/IptvAdi/678ugt/2739
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 1 HD" tvg-logo="" group-title="Sports",PL: Eleven Sports 1 HD
+http://tvku.live:8888/IptvAdi/678ugt/2740
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 2 HD" tvg-logo="" group-title="Sports",PL: Eleven Sports 2 HD
+http://tvku.live:8888/IptvAdi/678ugt/2741
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 3 HD" tvg-logo="" group-title="Sports",PL: Eleven Sports 3 HD
+http://tvku.live:8888/IptvAdi/678ugt/2742
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 4 HD" tvg-logo="" group-title="Sports",PL: Eleven Sports 4 HD
+http://tvku.live:8888/IptvAdi/678ugt/2743
+#EXTINF:-1 tvg-id="UK: SKY SPORTS PREMIER LEAGUE" tvg-name="Sky Sports Premier League HD-GB" tvg-logo="" group-title="Sports",Sky Sports Premier League HD-GB
+http://tvku.live:8888/IptvAdi/678ugt/2874
+#EXTINF:-1 tvg-id="UK: SKY SPORTS NEWS" tvg-name="Sky Sports News HD-GB" tvg-logo="" group-title="Sports",Sky Sports News HD-GB
+http://tvku.live:8888/IptvAdi/678ugt/2875
+#EXTINF:-1 tvg-id="UK: SKY SPORTS MIX" tvg-name="Sky Sports Mix HD-GB" tvg-logo="" group-title="Sports",Sky Sports Mix HD-GB
+http://tvku.live:8888/IptvAdi/678ugt/2876
+#EXTINF:-1 tvg-id="UK: SKY SPORTS MAIN EVENT" tvg-name="Sky Sports Main Events HD-GB" tvg-logo="" group-title="Sports",Sky Sports Main Events HD-GB
+http://tvku.live:8888/IptvAdi/678ugt/2877
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf HD-GB" tvg-logo="" group-title="Sports",Sky Sports Golf HD-GB
+http://tvku.live:8888/IptvAdi/678ugt/2878
+#EXTINF:-1 tvg-id="UK: SKY SPORTS FOOTBALL" tvg-name="Sky Sports Football HD-GB" tvg-logo="" group-title="Sports",Sky Sports Football HD-GB
+http://tvku.live:8888/IptvAdi/678ugt/2879
+#EXTINF:-1 tvg-id="UK: SKY SPORTS F1" tvg-name="Sky Sports F1 HD-GB" tvg-logo="" group-title="Sports",Sky Sports F1 HD-GB
+http://tvku.live:8888/IptvAdi/678ugt/2880
+#EXTINF:-1 tvg-id="UK: SKY SPORTS CRICKET" tvg-name="Sky Sports Cricket HD-GB" tvg-logo="" group-title="Sports",Sky Sports Cricket HD-GB
+http://tvku.live:8888/IptvAdi/678ugt/2881
+#EXTINF:-1 tvg-id="UK: SKY SPORTS ACTION" tvg-name="Sky Sports Action HD" tvg-logo="" group-title="Sports",Sky Sports Action HD
+http://tvku.live:8888/IptvAdi/678ugt/2883
+#EXTINF:-1 tvg-id="UK: SKY SPORTS ARENA" tvg-name="Sky Sports Arena HD-GB" tvg-logo="" group-title="Sports",Sky Sports Arena HD-GB
+http://tvku.live:8888/IptvAdi/678ugt/2882
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports ESPN HD-GB" tvg-logo="" group-title="Sports",BT Sports ESPN HD-GB
+http://tvku.live:8888/IptvAdi/678ugt/2884
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 3 HD-GB" tvg-logo="" group-title="Sports",BT Sports 3 HD-GB
+http://tvku.live:8888/IptvAdi/678ugt/2885
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 2 HD-GB" tvg-logo="" group-title="Sports",BT Sports 2 HD-GB
+http://tvku.live:8888/IptvAdi/678ugt/2886
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 1 HD-GB" tvg-logo="" group-title="Sports",BT Sports 1 HD-GB
+http://tvku.live:8888/IptvAdi/678ugt/2887
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport MáXimo" tvg-logo="" group-title="Sports",ZA: SuperSport MáXimo
+http://tvku.live:8888/IptvAdi/678ugt/2901
+#EXTINF:-1 tvg-id="" tvg-name="ZA: Supersport Blitz" tvg-logo="" group-title="Sports",ZA: Supersport Blitz
+http://tvku.live:8888/IptvAdi/678ugt/2900
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport 12" tvg-logo="" group-title="Sports",ZA: SuperSport 12
+http://tvku.live:8888/IptvAdi/678ugt/2899
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport 11" tvg-logo="" group-title="Sports",ZA: SuperSport 11
+http://tvku.live:8888/IptvAdi/678ugt/2898
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport 10" tvg-logo="" group-title="Sports",ZA: SuperSport 10
+http://tvku.live:8888/IptvAdi/678ugt/2897
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport 9" tvg-logo="" group-title="Sports",ZA: SuperSport 9
+http://tvku.live:8888/IptvAdi/678ugt/2896
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport 8" tvg-logo="" group-title="Sports",ZA: SuperSport 8
+http://tvku.live:8888/IptvAdi/678ugt/2895
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport 7" tvg-logo="" group-title="Sports",ZA: SuperSport 7
+http://tvku.live:8888/IptvAdi/678ugt/2892
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport 6" tvg-logo="" group-title="Sports",ZA: SuperSport 6
+http://tvku.live:8888/IptvAdi/678ugt/2894
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport 5" tvg-logo="" group-title="Sports",ZA: SuperSport 5
+http://tvku.live:8888/IptvAdi/678ugt/2891
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport 4" tvg-logo="" group-title="Sports",ZA: SuperSport 4
+http://tvku.live:8888/IptvAdi/678ugt/2890
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport 3" tvg-logo="" group-title="Sports",ZA: SuperSport 3
+http://tvku.live:8888/IptvAdi/678ugt/2893
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport 2" tvg-logo="" group-title="Sports",ZA: SuperSport 2
+http://tvku.live:8888/IptvAdi/678ugt/2889
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport 1" tvg-logo="" group-title="Sports",ZA: SuperSport 1
+http://tvku.live:8888/IptvAdi/678ugt/2888
+#EXTINF:-1 tvg-id="" tvg-name="UK Sport Backup: Sky Sports Racing FHD" tvg-logo="" group-title="Sports",UK Sport Backup: Sky Sports Racing FHD
+http://tvku.live:8888/IptvAdi/678ugt/3459
+#EXTINF:-1 tvg-id="" tvg-name="UK Sport Backup: Sky Sports News FHD" tvg-logo="" group-title="Sports",UK Sport Backup: Sky Sports News FHD
+http://tvku.live:8888/IptvAdi/678ugt/3460
+#EXTINF:-1 tvg-id="" tvg-name="UK Sport Backup: Sky Sports Mix FHD" tvg-logo="" group-title="Sports",UK Sport Backup: Sky Sports Mix FHD
+http://tvku.live:8888/IptvAdi/678ugt/3461
+#EXTINF:-1 tvg-id="" tvg-name="UK Sport Backup: Sky Sports Main Events FHD" tvg-logo="" group-title="Sports",UK Sport Backup: Sky Sports Main Events FHD
+http://tvku.live:8888/IptvAdi/678ugt/3462
+#EXTINF:-1 tvg-id="" tvg-name="UK Sport Backup: Sky Sports Premier League FHD" tvg-logo="" group-title="Sports",UK Sport Backup: Sky Sports Premier League FHD
+http://tvku.live:8888/IptvAdi/678ugt/3463
+#EXTINF:-1 tvg-id="" tvg-name="UK Sport Backup: Sky Sports Golf FHD" tvg-logo="" group-title="Sports",UK Sport Backup: Sky Sports Golf FHD
+http://tvku.live:8888/IptvAdi/678ugt/3464
+#EXTINF:-1 tvg-id="" tvg-name="UK Sport Backup: Sky Sports F1 FHD" tvg-logo="" group-title="Sports",UK Sport Backup: Sky Sports F1 FHD
+http://tvku.live:8888/IptvAdi/678ugt/3465
+#EXTINF:-1 tvg-id="" tvg-name="UK Sport Backup: Sky Sports Football FHD" tvg-logo="" group-title="Sports",UK Sport Backup: Sky Sports Football FHD
+http://tvku.live:8888/IptvAdi/678ugt/3466
+#EXTINF:-1 tvg-id="" tvg-name="UK Sport Backup: Sky Sports Arena FHD" tvg-logo="" group-title="Sports",UK Sport Backup: Sky Sports Arena FHD
+http://tvku.live:8888/IptvAdi/678ugt/3467
+#EXTINF:-1 tvg-id="" tvg-name="UK Sport Backup: Sky Sports Action FHD" tvg-logo="" group-title="Sports",UK Sport Backup: Sky Sports Action FHD
+http://tvku.live:8888/IptvAdi/678ugt/3468
+#EXTINF:-1 tvg-id="" tvg-name="UK Sport Backup: Sky Sports Cricket FHD" tvg-logo="" group-title="Sports",UK Sport Backup: Sky Sports Cricket FHD
+http://tvku.live:8888/IptvAdi/678ugt/3469
+#EXTINF:-1 tvg-id="" tvg-name="VN: SERIE A 1" tvg-logo="" group-title="Sports",VN: SERIE A 1
+http://tvku.live:8888/IptvAdi/678ugt/2777
+#EXTINF:-1 tvg-id="" tvg-name="VN: SERIE A 2" tvg-logo="" group-title="Sports",VN: SERIE A 2
+http://tvku.live:8888/IptvAdi/678ugt/2778
+#EXTINF:-1 tvg-id="" tvg-name="VN: SERIE A 3" tvg-logo="" group-title="Sports",VN: SERIE A 3
+http://tvku.live:8888/IptvAdi/678ugt/2779
+#EXTINF:-1 tvg-id="" tvg-name="VN: SERIE A 5" tvg-logo="" group-title="Sports",VN: SERIE A 5
+http://tvku.live:8888/IptvAdi/678ugt/2780
+#EXTINF:-1 tvg-id="" tvg-name="VN: SERIE A 7" tvg-logo="" group-title="Sports",VN: SERIE A 7
+http://tvku.live:8888/IptvAdi/678ugt/2781
+#EXTINF:-1 tvg-id="" tvg-name="VN: SERIE A 8" tvg-logo="" group-title="Sports",VN: SERIE A 8
+http://tvku.live:8888/IptvAdi/678ugt/2782
+#EXTINF:-1 tvg-id="" tvg-name="VN: SERIE A 6" tvg-logo="" group-title="Sports",VN: SERIE A 6
+http://tvku.live:8888/IptvAdi/678ugt/2783
+#EXTINF:-1 tvg-id="" tvg-name="VN: SERIE A 4" tvg-logo="" group-title="Sports",VN: SERIE A 4
+http://tvku.live:8888/IptvAdi/678ugt/2784
+#EXTINF:-1 tvg-id="" tvg-name="VN: SERIE A 9" tvg-logo="" group-title="Sports",VN: SERIE A 9
+http://tvku.live:8888/IptvAdi/678ugt/2785
+#EXTINF:-1 tvg-id="" tvg-name="VN: SERIE A 10" tvg-logo="" group-title="Sports",VN: SERIE A 10
+http://tvku.live:8888/IptvAdi/678ugt/2786
+#EXTINF:-1 tvg-id="" tvg-name="SBS HD" tvg-logo="https://meadowmedia.tv/wp-content/uploads/SBS-LOGO-300x215-300x215.jpeg" group-title="Australia",SBS HD
+http://tvku.live:8888/IptvAdi/678ugt/1847
+#EXTINF:-1 tvg-id="" tvg-name="SBS Food HD" tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/2018-10-24_2340.jpg" group-title="Australia",SBS Food HD
+http://tvku.live:8888/IptvAdi/678ugt/1848
+#EXTINF:-1 tvg-id="" tvg-name="SBS Viceland HD" tvg-logo="https://www.sbs.com.au/programs/sites/sbs.com.au.programs/files/styles/full/public/sbs_viceland_hd_black_1.jpg" group-title="Australia",SBS Viceland HD
+http://tvku.live:8888/IptvAdi/678ugt/1849
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 HD" tvg-logo="" group-title="Sports",PT: Eleven Sports 1 HD
+http://tvku.live:8888/IptvAdi/678ugt/2978
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="" group-title="Sports",PT: Eleven Sports 2 HD
+http://tvku.live:8888/IptvAdi/678ugt/2977
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 HD" tvg-logo="" group-title="Sports",PT: Eleven Sports 3 HD
+http://tvku.live:8888/IptvAdi/678ugt/2976
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 HD" tvg-logo="" group-title="Sports",PT: Eleven Sports 4 HD
+http://tvku.live:8888/IptvAdi/678ugt/2975
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5 HD" tvg-logo="" group-title="Sports",PT: Eleven Sports 5 HD
+http://tvku.live:8888/IptvAdi/678ugt/2974
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6 HD" tvg-logo="" group-title="Sports",PT: Eleven Sports 6 HD
+http://tvku.live:8888/IptvAdi/678ugt/2973
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote Sport 1 HD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065495&t=1536151167206" group-title="Sports",Cosmote Sport 1 HD
+http://tvku.live:8888/IptvAdi/678ugt/3087
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote Sport 2 HD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065483&t=1536151166635" group-title="Sports",Cosmote Sport 2 HD
+http://tvku.live:8888/IptvAdi/678ugt/3088
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote Sport 3 HD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065507&t=1536151167628" group-title="Sports",Cosmote Sport 3 HD
+http://tvku.live:8888/IptvAdi/678ugt/3089
+#EXTINF:-1 tvg-id="" tvg-name="True Sport HD 1" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/6d4b7c1f-ca25-4c6f-9b4b-c69ef3a034ce.png" group-title="Sports",True Sport HD 1
+http://tvku.live:8888/IptvAdi/678ugt/3013
+#EXTINF:-1 tvg-id="" tvg-name="True Sport HD 2" tvg-logo="https://cms.dmpcdn.com/livetv/2018/09/05/90d7d4f7-2a1b-486e-a0a8-c90de00cf3eb.png" group-title="Sports",True Sport HD 2
+http://tvku.live:8888/IptvAdi/678ugt/3015
+#EXTINF:-1 tvg-id="" tvg-name="True Sport HD 3" tvg-logo="https://tv.mthai.com/app/uploads/2018/06/true-sport3.png" group-title="Sports",True Sport HD 3
+http://tvku.live:8888/IptvAdi/678ugt/3016
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf" tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2014/05/golf_flat_rgb.png" group-title="Sports",NBC Golf
+http://tvku.live:8888/IptvAdi/678ugt/3131
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel" tvg-logo="" group-title="Sports",Olympic Channel
+http://tvku.live:8888/IptvAdi/678ugt/3134
+#EXTINF:-1 tvg-id="" tvg-name="Redbull TV" tvg-logo="" group-title="Sports",Redbull TV
+http://tvku.live:8888/IptvAdi/678ugt/3135
+#EXTINF:-1 tvg-id="" tvg-name="Racing TV" tvg-logo="" group-title="Sports",Racing TV
+http://tvku.live:8888/IptvAdi/678ugt/3136
+#EXTINF:-1 tvg-id="" tvg-name="SNY" tvg-logo="" group-title="Sports",SNY
+http://tvku.live:8888/IptvAdi/678ugt/3137
+#EXTINF:-1 tvg-id="" tvg-name="UFC HD" tvg-logo="" group-title="Sports",UFC HD
+http://tvku.live:8888/IptvAdi/678ugt/3138
+#EXTINF:-1 tvg-id="" tvg-name="CBS SPORTS NETWORK" tvg-logo="" group-title="Sports",CBS SPORTS NETWORK
+http://tvku.live:8888/IptvAdi/678ugt/3173
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports Prime" tvg-logo="" group-title="Hong Kong",HK: Now Sports Prime
+http://tvku.live:8888/IptvAdi/678ugt/3336
+#EXTINF:-1 tvg-id="" tvg-name="MY: Fox Movies" tvg-logo="" group-title="Astro Malaysia",MY: Fox Movies
+http://tvku.live:8888/IptvAdi/678ugt/2349
+#EXTINF:-1 tvg-id="" tvg-name="MY: Fox Family Movies" tvg-logo="" group-title="Astro Malaysia",MY: Fox Family Movies
+http://tvku.live:8888/IptvAdi/678ugt/2350
+#EXTINF:-1 tvg-id="" tvg-name="MY: Fox Action Movies" tvg-logo="" group-title="Astro Malaysia",MY: Fox Action Movies
+http://tvku.live:8888/IptvAdi/678ugt/2351
+#EXTINF:-1 tvg-id="" tvg-name="MY: Now Chinese Drama" tvg-logo="" group-title="Astro Malaysia",MY: Now Chinese Drama
+http://tvku.live:8888/IptvAdi/678ugt/2360
+#EXTINF:-1 tvg-id="" tvg-name="MY: Now International" tvg-logo="" group-title="Astro Malaysia",MY: Now International
+http://tvku.live:8888/IptvAdi/678ugt/2361
+#EXTINF:-1 tvg-id="" tvg-name="MY: Now TV" tvg-logo="" group-title="Astro Malaysia",MY: Now TV
+http://tvku.live:8888/IptvAdi/678ugt/2362
+#EXTINF:-1 tvg-id="" tvg-name="MY: Paramount Channel" tvg-logo="" group-title="Astro Malaysia",MY: Paramount Channel
+http://tvku.live:8888/IptvAdi/678ugt/2363
+#EXTINF:-1 tvg-id="" tvg-name="MY: Fox Life" tvg-logo="" group-title="Astro Malaysia",MY: Fox Life
+http://tvku.live:8888/IptvAdi/678ugt/2366
+#EXTINF:-1 tvg-id="" tvg-name="MY: Fox" tvg-logo="" group-title="Astro Malaysia",MY: Fox
+http://tvku.live:8888/IptvAdi/678ugt/2367
+#EXTINF:-1 tvg-id="" tvg-name="MY: BBC Earth" tvg-logo="" group-title="Astro Malaysia",MY: BBC Earth
+http://tvku.live:8888/IptvAdi/678ugt/2379
+#EXTINF:-1 tvg-id="" tvg-name="MY: Blue Ant Extreme" tvg-logo="" group-title="Astro Malaysia",MY: Blue Ant Extreme
+http://tvku.live:8888/IptvAdi/678ugt/2405
+#EXTINF:-1 tvg-id="" tvg-name="Adithya TV" tvg-logo="" group-title="Astro Malaysia",Adithya TV
+http://tvku.live:8888/IptvAdi/678ugt/4256
+#EXTINF:-1 tvg-id="" tvg-name="Astro AEC HD" tvg-logo="" group-title="Astro Malaysia",Astro AEC HD
+http://tvku.live:8888/IptvAdi/678ugt/4257
+#EXTINF:-1 tvg-id="" tvg-name="MY AFC HD" tvg-logo="" group-title="Astro Malaysia",MY AFC HD
+http://tvku.live:8888/IptvAdi/678ugt/4258
+#EXTINF:-1 tvg-id="" tvg-name="MY Animal Planet HD" tvg-logo="" group-title="Astro Malaysia",MY Animal Planet HD
+http://tvku.live:8888/IptvAdi/678ugt/4259
+#EXTINF:-1 tvg-id="" tvg-name="MY Aniplus HD" tvg-logo="" group-title="Astro Malaysia",MY Aniplus HD
+http://tvku.live:8888/IptvAdi/678ugt/4260
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 350" tvg-logo="" group-title="Astro Malaysia",Astro AOD 350
+http://tvku.live:8888/IptvAdi/678ugt/4261
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 351" tvg-logo="" group-title="Astro Malaysia",Astro AOD 351
+http://tvku.live:8888/IptvAdi/678ugt/4262
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 352" tvg-logo="" group-title="Astro Malaysia",Astro AOD 352
+http://tvku.live:8888/IptvAdi/678ugt/4263
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 353" tvg-logo="" group-title="Astro Malaysia",Astro AOD 353
+http://tvku.live:8888/IptvAdi/678ugt/4264
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 361" tvg-logo="" group-title="Astro Malaysia",Astro AOD 361
+http://tvku.live:8888/IptvAdi/678ugt/4265
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 362" tvg-logo="" group-title="Astro Malaysia",Astro AOD 362
+http://tvku.live:8888/IptvAdi/678ugt/4266
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD HD 363" tvg-logo="" group-title="Astro Malaysia",Astro AOD HD 363
+http://tvku.live:8888/IptvAdi/678ugt/4267
+#EXTINF:-1 tvg-id="" tvg-name="MY Asian Action" tvg-logo="" group-title="Astro Malaysia",MY Asian Action
+http://tvku.live:8888/IptvAdi/678ugt/4268
+#EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="" group-title="Astro Malaysia",Astro Awani
+http://tvku.live:8888/IptvAdi/678ugt/4269
+#EXTINF:-1 tvg-id="" tvg-name="MY AXN HD" tvg-logo="" group-title="Astro Malaysia",MY AXN HD
+http://tvku.live:8888/IptvAdi/678ugt/4270
+#EXTINF:-1 tvg-id="" tvg-name="MY beIN MAX 2" tvg-logo="" group-title="Astro Malaysia",MY beIN MAX 2
+http://tvku.live:8888/IptvAdi/678ugt/4271
+#EXTINF:-1 tvg-id="" tvg-name="MY beIN RUGBY" tvg-logo="" group-title="Astro Malaysia",MY beIN RUGBY
+http://tvku.live:8888/IptvAdi/678ugt/4273
+#EXTINF:-1 tvg-id="" tvg-name="MY beIN SPORTS" tvg-logo="" group-title="Astro Malaysia",MY beIN SPORTS
+http://tvku.live:8888/IptvAdi/678ugt/4274
+#EXTINF:-1 tvg-id="" tvg-name="MY BLOOMBERG TV" tvg-logo="" group-title="Astro Malaysia",MY BLOOMBERG TV
+http://tvku.live:8888/IptvAdi/678ugt/4275
+#EXTINF:-1 tvg-id="" tvg-name="MY BNC" tvg-logo="" group-title="Astro Malaysia",MY BNC
+http://tvku.live:8888/IptvAdi/678ugt/4276
+#EXTINF:-1 tvg-id="" tvg-name="Astro Bollyone HD" tvg-logo="" group-title="Astro Malaysia",Astro Bollyone HD
+http://tvku.live:8888/IptvAdi/678ugt/4277
+#EXTINF:-1 tvg-id="" tvg-name="MY Cartoon Network" tvg-logo="" group-title="Astro Malaysia",MY Cartoon Network
+http://tvku.live:8888/IptvAdi/678ugt/4278
+#EXTINF:-1 tvg-id="" tvg-name="MY CCM" tvg-logo="" group-title="Astro Malaysia",MY CCM
+http://tvku.live:8888/IptvAdi/678ugt/4279
+#EXTINF:-1 tvg-id="" tvg-name="MY CCTV4" tvg-logo="" group-title="Astro Malaysia",MY CCTV4
+http://tvku.live:8888/IptvAdi/678ugt/4280
+#EXTINF:-1 tvg-id="" tvg-name="MY CELESTIAL HD" tvg-logo="" group-title="Astro Malaysia",MY CELESTIAL HD
+http://tvku.live:8888/IptvAdi/678ugt/4281
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ceria" tvg-logo="" group-title="Astro Malaysia",Astro Ceria
+http://tvku.live:8888/IptvAdi/678ugt/4282
+#EXTINF:-1 tvg-id="" tvg-name="MY CGTN" tvg-logo="" group-title="Astro Malaysia",MY CGTN
+http://tvku.live:8888/IptvAdi/678ugt/4283
+#EXTINF:-1 tvg-id="" tvg-name="MY CHUTTI TV" tvg-logo="" group-title="Astro Malaysia",MY CHUTTI TV
+http://tvku.live:8888/IptvAdi/678ugt/4284
+#EXTINF:-1 tvg-id="" tvg-name="MY Crime Investigation HD" tvg-logo="" group-title="Astro Malaysia",MY Crime Investigation HD
+http://tvku.live:8888/IptvAdi/678ugt/4285
+#EXTINF:-1 tvg-id="" tvg-name="MY CINEMAX HD" tvg-logo="" group-title="Astro Malaysia",MY CINEMAX HD
+http://tvku.live:8888/IptvAdi/678ugt/4286
+#EXTINF:-1 tvg-id="" tvg-name="MY CLASSIC MOVIES" tvg-logo="" group-title="Astro Malaysia",MY CLASSIC MOVIES
+http://tvku.live:8888/IptvAdi/678ugt/4287
+#EXTINF:-1 tvg-id="" tvg-name="MY CNBC" tvg-logo="" group-title="Astro Malaysia",MY CNBC
+http://tvku.live:8888/IptvAdi/678ugt/4288
+#EXTINF:-1 tvg-id="" tvg-name="MY CNN HD" tvg-logo="" group-title="Astro Malaysia",MY CNN HD
+http://tvku.live:8888/IptvAdi/678ugt/4289
+#EXTINF:-1 tvg-id="" tvg-name="MY COLORS HD" tvg-logo="" group-title="Astro Malaysia",MY COLORS HD
+http://tvku.live:8888/IptvAdi/678ugt/4290
+#EXTINF:-1 tvg-id="" tvg-name="MY CTI ASIA" tvg-logo="" group-title="Astro Malaysia",MY CTI ASIA
+http://tvku.live:8888/IptvAdi/678ugt/4291
+#EXTINF:-1 tvg-id="" tvg-name="MY Discovery Science HD" tvg-logo="" group-title="Astro Malaysia",MY Discovery Science HD
+http://tvku.live:8888/IptvAdi/678ugt/4292
+#EXTINF:-1 tvg-id="" tvg-name="MY Discovery Asia" tvg-logo="" group-title="Astro Malaysia",MY Discovery Asia
+http://tvku.live:8888/IptvAdi/678ugt/4293
+#EXTINF:-1 tvg-id="" tvg-name="MY Discovery HD" tvg-logo="" group-title="Astro Malaysia",MY Discovery HD
+http://tvku.live:8888/IptvAdi/678ugt/4294
+#EXTINF:-1 tvg-id="" tvg-name="MY Disney Channel" tvg-logo="" group-title="Astro Malaysia",MY Disney Channel
+http://tvku.live:8888/IptvAdi/678ugt/4295
+#EXTINF:-1 tvg-id="" tvg-name="MY Disney Junior" tvg-logo="" group-title="Astro Malaysia",MY Disney Junior
+http://tvku.live:8888/IptvAdi/678ugt/4296
+#EXTINF:-1 tvg-id="" tvg-name="MY Disney XD HD" tvg-logo="" group-title="Astro Malaysia",MY Disney XD HD
+http://tvku.live:8888/IptvAdi/678ugt/4297
+#EXTINF:-1 tvg-id="" tvg-name="MY Diva HD" tvg-logo="" group-title="Astro Malaysia",MY Diva HD
+http://tvku.live:8888/IptvAdi/678ugt/4298
+#EXTINF:-1 tvg-id="" tvg-name="MY DMAX HD" tvg-logo="" group-title="Astro Malaysia",MY DMAX HD
+http://tvku.live:8888/IptvAdi/678ugt/4299
+#EXTINF:-1 tvg-id="" tvg-name="MY E! HD" tvg-logo="" group-title="Astro Malaysia",MY E! HD
+http://tvku.live:8888/IptvAdi/678ugt/4300
+#EXTINF:-1 tvg-id="" tvg-name="MY eGG Network" tvg-logo="" group-title="Astro Malaysia",MY eGG Network
+http://tvku.live:8888/IptvAdi/678ugt/4301
+#EXTINF:-1 tvg-id="" tvg-name="MY EUROSPORT HD" tvg-logo="" group-title="Astro Malaysia",MY EUROSPORT HD
+http://tvku.live:8888/IptvAdi/678ugt/4302
+#EXTINF:-1 tvg-id="" tvg-name="MY Food Network HD" tvg-logo="" group-title="Astro Malaysia",MY Food Network HD
+http://tvku.live:8888/IptvAdi/678ugt/4303
+#EXTINF:-1 tvg-id="" tvg-name="Astro Go Shop 2" tvg-logo="" group-title="Astro Malaysia",Astro Go Shop 2
+http://tvku.live:8888/IptvAdi/678ugt/4304
+#EXTINF:-1 tvg-id="" tvg-name="Astro Go Shop" tvg-logo="" group-title="Astro Malaysia",Astro Go Shop
+http://tvku.live:8888/IptvAdi/678ugt/4305
+#EXTINF:-1 tvg-id="" tvg-name="Astro Go Shop 3" tvg-logo="" group-title="Astro Malaysia",Astro Go Shop 3
+http://tvku.live:8888/IptvAdi/678ugt/4306
+#EXTINF:-1 tvg-id="" tvg-name="MY Golf Channel HD" tvg-logo="" group-title="Astro Malaysia",MY Golf Channel HD
+http://tvku.live:8888/IptvAdi/678ugt/4307
+#EXTINF:-1 tvg-id="" tvg-name="MY HBO HD" tvg-logo="" group-title="Astro Malaysia",MY HBO HD
+http://tvku.live:8888/IptvAdi/678ugt/4308
+#EXTINF:-1 tvg-id="" tvg-name="MY HELLO" tvg-logo="" group-title="Astro Malaysia",MY HELLO
+http://tvku.live:8888/IptvAdi/678ugt/4309
+#EXTINF:-1 tvg-id="" tvg-name="MY HGTV HD" tvg-logo="" group-title="Astro Malaysia",MY HGTV HD
+http://tvku.live:8888/IptvAdi/678ugt/4310
+#EXTINF:-1 tvg-id="" tvg-name="MY HISTORY HD" tvg-logo="" group-title="Astro Malaysia",MY HISTORY HD
+http://tvku.live:8888/IptvAdi/678ugt/4311
+#EXTINF:-1 tvg-id="" tvg-name="MY HITS HD" tvg-logo="" group-title="Astro Malaysia",MY HITS HD
+http://tvku.live:8888/IptvAdi/678ugt/4312
+#EXTINF:-1 tvg-id="" tvg-name="Astro HUA HEE DAI HD" tvg-logo="" group-title="Astro Malaysia",Astro HUA HEE DAI HD
+http://tvku.live:8888/IptvAdi/678ugt/4313
+#EXTINF:-1 tvg-id="" tvg-name="MY iQIYI HD" tvg-logo="" group-title="Astro Malaysia",MY iQIYI HD
+http://tvku.live:8888/IptvAdi/678ugt/4314
+#EXTINF:-1 tvg-id="" tvg-name="MY JAYA TV" tvg-logo="" group-title="Astro Malaysia",MY JAYA TV
+http://tvku.live:8888/IptvAdi/678ugt/4315
+#EXTINF:-1 tvg-id="" tvg-name="MY KALAIGNAR" tvg-logo="" group-title="Astro Malaysia",MY KALAIGNAR
+http://tvku.live:8888/IptvAdi/678ugt/4316
+#EXTINF:-1 tvg-id="" tvg-name="MY KBS WORLD HD" tvg-logo="" group-title="Astro Malaysia",MY KBS WORLD HD
+http://tvku.live:8888/IptvAdi/678ugt/4317
+#EXTINF:-1 tvg-id="" tvg-name="MY KIX HD" tvg-logo="" group-title="Astro Malaysia",MY KIX HD
+http://tvku.live:8888/IptvAdi/678ugt/4318
+#EXTINF:-1 tvg-id="" tvg-name="MY KPLUS HD" tvg-logo="" group-title="Astro Malaysia",MY KPLUS HD
+http://tvku.live:8888/IptvAdi/678ugt/4319
+#EXTINF:-1 tvg-id="" tvg-name="MY MAKKAL TV" tvg-logo="" group-title="Astro Malaysia",MY MAKKAL TV
+http://tvku.live:8888/IptvAdi/678ugt/4320
+#EXTINF:-1 tvg-id="" tvg-name="MY NAURA" tvg-logo="" group-title="Astro Malaysia",MY NAURA
+http://tvku.live:8888/IptvAdi/678ugt/4321
+#EXTINF:-1 tvg-id="" tvg-name="MY NICKELODEON" tvg-logo="" group-title="Astro Malaysia",MY NICKELODEON
+http://tvku.live:8888/IptvAdi/678ugt/4322
+#EXTINF:-1 tvg-id="" tvg-name="Astro OASIS HD" tvg-logo="" group-title="Astro Malaysia",Astro OASIS HD
+http://tvku.live:8888/IptvAdi/678ugt/4323
+#EXTINF:-1 tvg-id="" tvg-name="MY Oh!K HD" tvg-logo="" group-title="Astro Malaysia",MY Oh!K HD
+http://tvku.live:8888/IptvAdi/678ugt/4324
+#EXTINF:-1 tvg-id="" tvg-name="MY ONE HD" tvg-logo="" group-title="Astro Malaysia",MY ONE HD
+http://tvku.live:8888/IptvAdi/678ugt/4325
+#EXTINF:-1 tvg-id="" tvg-name="Astro Prima HD" tvg-logo="" group-title="Astro Malaysia",Astro Prima HD
+http://tvku.live:8888/IptvAdi/678ugt/4326
+#EXTINF:-1 tvg-id="" tvg-name="Astro QUAN JIA HD" tvg-logo="" group-title="Astro Malaysia",Astro QUAN JIA HD
+http://tvku.live:8888/IptvAdi/678ugt/4327
+#EXTINF:-1 tvg-id="" tvg-name="MY RAJ TV" tvg-logo="" group-title="Astro Malaysia",MY RAJ TV
+http://tvku.live:8888/IptvAdi/678ugt/4328
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ria HD" tvg-logo="" group-title="Astro Malaysia",Astro Ria HD
+http://tvku.live:8888/IptvAdi/678ugt/4329
+#EXTINF:-1 tvg-id="" tvg-name="MY SETANTA SPORTS" tvg-logo="" group-title="Astro Malaysia",MY SETANTA SPORTS
+http://tvku.live:8888/IptvAdi/678ugt/4330
+#EXTINF:-1 tvg-id="" tvg-name="Astro SHUANG XING HD" tvg-logo="" group-title="Astro Malaysia",Astro SHUANG XING HD
+http://tvku.live:8888/IptvAdi/678ugt/4331
+#EXTINF:-1 tvg-id="" tvg-name="Astro STAR VIJAY HD" tvg-logo="" group-title="Astro Malaysia",Astro STAR VIJAY HD
+http://tvku.live:8888/IptvAdi/678ugt/4332
+#EXTINF:-1 tvg-id="" tvg-name="MY SUN MUSIC" tvg-logo="" group-title="Astro Malaysia",MY SUN MUSIC
+http://tvku.live:8888/IptvAdi/678ugt/4333
+#EXTINF:-1 tvg-id="" tvg-name="MY SUN TV HD" tvg-logo="" group-title="Astro Malaysia",MY SUN TV HD
+http://tvku.live:8888/IptvAdi/678ugt/4334
+#EXTINF:-1 tvg-id="" tvg-name="MY TLC HD" tvg-logo="" group-title="Astro Malaysia",MY TLC HD
+http://tvku.live:8888/IptvAdi/678ugt/4335
+#EXTINF:-1 tvg-id="" tvg-name="Astro TUTOR TV PT3" tvg-logo="" group-title="Astro Malaysia",Astro TUTOR TV PT3
+http://tvku.live:8888/IptvAdi/678ugt/4336
+#EXTINF:-1 tvg-id="" tvg-name="Astro TUTOR TV SPM" tvg-logo="" group-title="Astro Malaysia",Astro TUTOR TV SPM
+http://tvku.live:8888/IptvAdi/678ugt/4337
+#EXTINF:-1 tvg-id="" tvg-name="Astro TUTOR TV UPSR" tvg-logo="" group-title="Astro Malaysia",Astro TUTOR TV UPSR
+http://tvku.live:8888/IptvAdi/678ugt/4338
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB CLASSIC" tvg-logo="" group-title="Astro Malaysia",MY TVB CLASSIC
+http://tvku.live:8888/IptvAdi/678ugt/4339
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB E-NEWS" tvg-logo="" group-title="Astro Malaysia",MY TVB E-NEWS
+http://tvku.live:8888/IptvAdi/678ugt/4340
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB JADE" tvg-logo="" group-title="Astro Malaysia",MY TVB JADE
+http://tvku.live:8888/IptvAdi/678ugt/4341
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB XING HE" tvg-logo="" group-title="Astro Malaysia",MY TVB XING HE
+http://tvku.live:8888/IptvAdi/678ugt/4342
+#EXTINF:-1 tvg-id="" tvg-name="MY TVBS ASIA" tvg-logo="" group-title="Astro Malaysia",MY TVBS ASIA
+http://tvku.live:8888/IptvAdi/678ugt/4343
+#EXTINF:-1 tvg-id="" tvg-name="Astro TVIQ" tvg-logo="" group-title="Astro Malaysia",Astro TVIQ
+http://tvku.live:8888/IptvAdi/678ugt/4344
+#EXTINF:-1 tvg-id="" tvg-name="Astro VAANAVIL" tvg-logo="" group-title="Astro Malaysia",Astro VAANAVIL
+http://tvku.live:8888/IptvAdi/678ugt/4345
+#EXTINF:-1 tvg-id="" tvg-name="Astro VINMEEN HD" tvg-logo="" group-title="Astro Malaysia",Astro VINMEEN HD
+http://tvku.live:8888/IptvAdi/678ugt/4346
+#EXTINF:-1 tvg-id="" tvg-name="Astro WAH LAI TOI HD" tvg-logo="" group-title="Astro Malaysia",Astro WAH LAI TOI HD
+http://tvku.live:8888/IptvAdi/678ugt/4347
+#EXTINF:-1 tvg-id="" tvg-name="Astro WARNA HD" tvg-logo="" group-title="Astro Malaysia",Astro WARNA HD
+http://tvku.live:8888/IptvAdi/678ugt/4348
+#EXTINF:-1 tvg-id="" tvg-name="MY WWE NETWORK" tvg-logo="" group-title="Astro Malaysia",MY WWE NETWORK
+http://tvku.live:8888/IptvAdi/678ugt/4349
+#EXTINF:-1 tvg-id="" tvg-name="Astro XIAO TAI YANG" tvg-logo="" group-title="Astro Malaysia",Astro XIAO TAI YANG
+http://tvku.live:8888/IptvAdi/678ugt/4350
+#EXTINF:-1 tvg-id="" tvg-name="Astro Vellithirai" tvg-logo="" group-title="Astro Malaysia",Astro Vellithirai
+http://tvku.live:8888/IptvAdi/678ugt/4351
+#EXTINF:-1 tvg-id="" tvg-name="MY Bintang" tvg-logo="" group-title="Astro Malaysia",MY Bintang
+http://tvku.live:8888/IptvAdi/678ugt/4352
+#EXTINF:-1 tvg-id="" tvg-name="MY Pelangi" tvg-logo="" group-title="Astro Malaysia",MY Pelangi
+http://tvku.live:8888/IptvAdi/678ugt/4353
+#EXTINF:-1 tvg-id="" tvg-name="MY Okey" tvg-logo="" group-title="Astro Malaysia",MY Okey
+http://tvku.live:8888/IptvAdi/678ugt/4354
+#EXTINF:-1 tvg-id="" tvg-name="MY BOO HD" tvg-logo="" group-title="Astro Malaysia",MY BOO HD
+http://tvku.live:8888/IptvAdi/678ugt/4355
+#EXTINF:-1 tvg-id="" tvg-name="MY NewCH 23" tvg-logo="" group-title="Astro Malaysia",MY NewCH 23
+http://tvku.live:8888/IptvAdi/678ugt/4356
+#EXTINF:-1 tvg-id="" tvg-name="Astro BoxOffice Sport HD" tvg-logo="" group-title="Astro Malaysia",Astro BoxOffice Sport HD
+http://tvku.live:8888/IptvAdi/678ugt/4357
+#EXTINF:-1 tvg-id="" tvg-name="MY ABC AUSTRALIA" tvg-logo="" group-title="Astro Malaysia",MY ABC AUSTRALIA
+http://tvku.live:8888/IptvAdi/678ugt/4358
+#EXTINF:-1 tvg-id="" tvg-name="MY AL JAZEERA HD" tvg-logo="" group-title="Astro Malaysia",MY AL JAZEERA HD
+http://tvku.live:8888/IptvAdi/678ugt/4359
+#EXTINF:-1 tvg-id="" tvg-name="MY ANIMAX" tvg-logo="" group-title="Astro Malaysia",MY ANIMAX
+http://tvku.live:8888/IptvAdi/678ugt/4360
+#EXTINF:-1 tvg-id="" tvg-name="MY BBC WORLD NEWS HD" tvg-logo="" group-title="Astro Malaysia",MY BBC WORLD NEWS HD
+http://tvku.live:8888/IptvAdi/678ugt/4361
+#EXTINF:-1 tvg-id="" tvg-name="MY CNA HD" tvg-logo="" group-title="Astro Malaysia",MY CNA HD
+http://tvku.live:8888/IptvAdi/678ugt/4362
+#EXTINF:-1 tvg-id="" tvg-name="MY COLORS TAMIL" tvg-logo="" group-title="Astro Malaysia",MY COLORS TAMIL
+http://tvku.live:8888/IptvAdi/678ugt/4363
+#EXTINF:-1 tvg-id="" tvg-name="MY COMEDY CENTRAL HD" tvg-logo="" group-title="Astro Malaysia",MY COMEDY CENTRAL HD
+http://tvku.live:8888/IptvAdi/678ugt/4364
+#EXTINF:-1 tvg-id="" tvg-name="MY DW HD" tvg-logo="" group-title="Astro Malaysia",MY DW HD
+http://tvku.live:8888/IptvAdi/678ugt/4365
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX SPORTS 2 HD" tvg-logo="" group-title="Astro Malaysia",MY FOX SPORTS 2 HD
+http://tvku.live:8888/IptvAdi/678ugt/4366
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX SPORTS 3 HD" tvg-logo="" group-title="Astro Malaysia",MY FOX SPORTS 3 HD
+http://tvku.live:8888/IptvAdi/678ugt/4367
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX SPORTS HD" tvg-logo="" group-title="Astro Malaysia",MY FOX SPORTS HD
+http://tvku.live:8888/IptvAdi/678ugt/4368
+#EXTINF:-1 tvg-id="" tvg-name="MY FRANCE24 HD" tvg-logo="" group-title="Astro Malaysia",MY FRANCE24 HD
+http://tvku.live:8888/IptvAdi/678ugt/4369
+#EXTINF:-1 tvg-id="" tvg-name="MY MTV" tvg-logo="" group-title="Astro Malaysia",MY MTV
+http://tvku.live:8888/IptvAdi/678ugt/4370
+#EXTINF:-1 tvg-id="" tvg-name="MY Nat Geo Wild HD" tvg-logo="" group-title="Astro Malaysia",MY Nat Geo Wild HD
+http://tvku.live:8888/IptvAdi/678ugt/4371
+#EXTINF:-1 tvg-id="" tvg-name="MY SKY NEWS HD" tvg-logo="" group-title="Astro Malaysia",MY SKY NEWS HD
+http://tvku.live:8888/IptvAdi/678ugt/4372
+#EXTINF:-1 tvg-id="" tvg-name="MY TV ALHIJRAH" tvg-logo="" group-title="Astro Malaysia",MY TV ALHIJRAH
+http://tvku.live:8888/IptvAdi/678ugt/4373
+#EXTINF:-1 tvg-id="" tvg-name="MY tvN HD" tvg-logo="" group-title="Astro Malaysia",MY tvN HD
+http://tvku.live:8888/IptvAdi/678ugt/4374
+#EXTINF:-1 tvg-id="" tvg-name="MY tvN Movies" tvg-logo="" group-title="Astro Malaysia",MY tvN Movies
+http://tvku.live:8888/IptvAdi/678ugt/4375
+#EXTINF:-1 tvg-id="" tvg-name="MY WARNER TV" tvg-logo="" group-title="Astro Malaysia",MY WARNER TV
+http://tvku.live:8888/IptvAdi/678ugt/4376
+#EXTINF:-1 tvg-id="" tvg-name="MY Discovery Science HD" tvg-logo="" group-title="Astro Malaysia",MY Discovery Science HD
+http://tvku.live:8888/IptvAdi/678ugt/4377
+#EXTINF:-1 tvg-id="" tvg-name="MY BabyTV" tvg-logo="" group-title="Astro Malaysia",MY BabyTV
+http://tvku.live:8888/IptvAdi/678ugt/4378
+#EXTINF:-1 tvg-id="" tvg-name="MY Fox Life HD" tvg-logo="" group-title="Astro Malaysia",MY Fox Life HD
+http://tvku.live:8888/IptvAdi/678ugt/4379
+#EXTINF:-1 tvg-id="" tvg-name="MY Nat Geo People HD" tvg-logo="" group-title="Astro Malaysia",MY Nat Geo People HD
+http://tvku.live:8888/IptvAdi/678ugt/4380
+#EXTINF:-1 tvg-id="" tvg-name="MY Nat Geo HD" tvg-logo="" group-title="Astro Malaysia",MY Nat Geo HD
+http://tvku.live:8888/IptvAdi/678ugt/4381
+#EXTINF:-1 tvg-id="" tvg-name="MY TV9" tvg-logo="" group-title="Astro Malaysia",MY TV9
+http://tvku.live:8888/IptvAdi/678ugt/4382
+#EXTINF:-1 tvg-id="" tvg-name="MY TV1" tvg-logo="" group-title="Astro Malaysia",MY TV1
+http://tvku.live:8888/IptvAdi/678ugt/4383
+#EXTINF:-1 tvg-id="" tvg-name="MY TV2" tvg-logo="" group-title="Astro Malaysia",MY TV2
+http://tvku.live:8888/IptvAdi/678ugt/4384
+#EXTINF:-1 tvg-id="" tvg-name="MY TV3" tvg-logo="" group-title="Astro Malaysia",MY TV3
+http://tvku.live:8888/IptvAdi/678ugt/4385
+#EXTINF:-1 tvg-id="" tvg-name="MY Celestial Movies" tvg-logo="" group-title="Astro Malaysia",MY Celestial Movies
+http://tvku.live:8888/IptvAdi/678ugt/4386
+#EXTINF:-1 tvg-id="" tvg-name="MY rajtv" tvg-logo="" group-title="Astro Malaysia",MY rajtv
+http://tvku.live:8888/IptvAdi/678ugt/4387
+#EXTINF:-1 tvg-id="" tvg-name="MY Star Chinese Channel" tvg-logo="" group-title="Astro Malaysia",MY Star Chinese Channel
+http://tvku.live:8888/IptvAdi/678ugt/4388
+#EXTINF:-1 tvg-id="" tvg-name="MY TV8" tvg-logo="" group-title="Astro Malaysia",MY TV8
+http://tvku.live:8888/IptvAdi/678ugt/4389
+#EXTINF:-1 tvg-id="" tvg-name="MY Fox Movies HD" tvg-logo="" group-title="Astro Malaysia",MY Fox Movies HD
+http://tvku.live:8888/IptvAdi/678ugt/4390
+#EXTINF:-1 tvg-id="" tvg-name="MY Fox Movies Action HD" tvg-logo="" group-title="Astro Malaysia",MY Fox Movies Action HD
+http://tvku.live:8888/IptvAdi/678ugt/4391
+#EXTINF:-1 tvg-id="" tvg-name="MY Fox Movies Family HD" tvg-logo="" group-title="Astro Malaysia",MY Fox Movies Family HD
+http://tvku.live:8888/IptvAdi/678ugt/4392
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX HD" tvg-logo="" group-title="Astro Malaysia",MY FOX HD
+http://tvku.live:8888/IptvAdi/678ugt/4393
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTV1 HD" tvg-logo="" group-title="Vietnam",VN: VTV1 HD
+http://tvku.live:8888/IptvAdi/678ugt/2787
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTV4 HD" tvg-logo="" group-title="Vietnam",VN: VTV4 HD
+http://tvku.live:8888/IptvAdi/678ugt/2788
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTV5 HD" tvg-logo="" group-title="Vietnam",VN: VTV5 HD
+http://tvku.live:8888/IptvAdi/678ugt/2789
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTV8 HD" tvg-logo="" group-title="Vietnam",VN: VTV8 HD
+http://tvku.live:8888/IptvAdi/678ugt/2790
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTV9 HD" tvg-logo="" group-title="Vietnam",VN: VTV9 HD
+http://tvku.live:8888/IptvAdi/678ugt/2791
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTV1 HD" tvg-logo="" group-title="Vietnam",VN: HTV1 HD
+http://tvku.live:8888/IptvAdi/678ugt/2792
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTV3 HD" tvg-logo="" group-title="Vietnam",VN: HTV3 HD
+http://tvku.live:8888/IptvAdi/678ugt/2793
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTV2 HD" tvg-logo="" group-title="Vietnam",VN: HTV2 HD
+http://tvku.live:8888/IptvAdi/678ugt/2794
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTV4 HD" tvg-logo="" group-title="Vietnam",VN: HTV4 HD
+http://tvku.live:8888/IptvAdi/678ugt/2795
+#EXTINF:-1 tvg-id="" tvg-name="VN: BLUE ANT ENTERTAINMENT HD" tvg-logo="" group-title="Vietnam",VN: BLUE ANT ENTERTAINMENT HD
+http://tvku.live:8888/IptvAdi/678ugt/2796
+#EXTINF:-1 tvg-id="" tvg-name="VN: BLUE ANT EXTREME HD" tvg-logo="" group-title="Vietnam",VN: BLUE ANT EXTREME HD
+http://tvku.live:8888/IptvAdi/678ugt/2797
+#EXTINF:-1 tvg-id="" tvg-name="VN: FOX MOVIES HD" tvg-logo="" group-title="Vietnam",VN: FOX MOVIES HD
+http://tvku.live:8888/IptvAdi/678ugt/2798
+#EXTINF:-1 tvg-id="" tvg-name="VN: FOX FAMILY MOVIES HD" tvg-logo="" group-title="Vietnam",VN: FOX FAMILY MOVIES HD
+http://tvku.live:8888/IptvAdi/678ugt/2799
+#EXTINF:-1 tvg-id="" tvg-name="VN: KIX HD" tvg-logo="" group-title="Vietnam",VN: KIX HD
+http://tvku.live:8888/IptvAdi/678ugt/2800
+#EXTINF:-1 tvg-id="" tvg-name="VN: FOX LIFE HD" tvg-logo="" group-title="Vietnam",VN: FOX LIFE HD
+http://tvku.live:8888/IptvAdi/678ugt/2801
+#EXTINF:-1 tvg-id="" tvg-name="VN: DIVA" tvg-logo="" group-title="Vietnam",VN: DIVA
+http://tvku.live:8888/IptvAdi/678ugt/2802
+#EXTINF:-1 tvg-id="" tvg-name="VN: FOX HD" tvg-logo="" group-title="Vietnam",VN: FOX HD
+http://tvku.live:8888/IptvAdi/678ugt/2803
+#EXTINF:-1 tvg-id="" tvg-name="VN: CHANNEL V HD" tvg-logo="" group-title="Vietnam",VN: CHANNEL V HD
+http://tvku.live:8888/IptvAdi/678ugt/2804
+#EXTINF:-1 tvg-id="" tvg-name="VN: ASIAN FOOD CHANNEL HD" tvg-logo="" group-title="Vietnam",VN: ASIAN FOOD CHANNEL HD
+http://tvku.live:8888/IptvAdi/678ugt/2805
+#EXTINF:-1 tvg-id="" tvg-name="VN: BOOMERANG HD" tvg-logo="" group-title="Vietnam",VN: BOOMERANG HD
+http://tvku.live:8888/IptvAdi/678ugt/2806
+#EXTINF:-1 tvg-id="" tvg-name="VN: DA VINCI LEARNING HD" tvg-logo="" group-title="Vietnam",VN: DA VINCI LEARNING HD
+http://tvku.live:8888/IptvAdi/678ugt/2807
+#EXTINF:-1 tvg-id="" tvg-name="VN: BBC EARTH HD" tvg-logo="" group-title="Vietnam",VN: BBC EARTH HD
+http://tvku.live:8888/IptvAdi/678ugt/2808
+#EXTINF:-1 tvg-id="" tvg-name="VN: BBC NEWS" tvg-logo="" group-title="Vietnam",VN: BBC NEWS
+http://tvku.live:8888/IptvAdi/678ugt/2809
+#EXTINF:-1 tvg-id="" tvg-name="VN: BBC LIFESTYLE" tvg-logo="" group-title="Vietnam",VN: BBC LIFESTYLE
+http://tvku.live:8888/IptvAdi/678ugt/2810
+#EXTINF:-1 tvg-id="" tvg-name="VN: BABY FIRST HD" tvg-logo="" group-title="Vietnam",VN: BABY FIRST HD
+http://tvku.live:8888/IptvAdi/678ugt/2811
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors HD" tvg-logo="" group-title="India",IN: Colors HD
+http://tvku.live:8888/IptvAdi/678ugt/2548
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Jalsha" tvg-logo="" group-title="India",IN: Star Jalsha
+http://tvku.live:8888/IptvAdi/678ugt/2547
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus" tvg-logo="" group-title="India",IN: Star Plus
+http://tvku.live:8888/IptvAdi/678ugt/2546
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Vijay" tvg-logo="" group-title="India",IN: Star Vijay
+http://tvku.live:8888/IptvAdi/678ugt/2545
+#EXTINF:-1 tvg-id="" tvg-name="IN: UTV Bindass" tvg-logo="" group-title="India",IN: UTV Bindass
+http://tvku.live:8888/IptvAdi/678ugt/2544
+#EXTINF:-1 tvg-id="" tvg-name="IN: UTV Movies HD" tvg-logo="" group-title="India",IN: UTV Movies HD
+http://tvku.live:8888/IptvAdi/678ugt/2543
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bollywood" tvg-logo="" group-title="India",IN: Zee Bollywood
+http://tvku.live:8888/IptvAdi/678ugt/2541
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema" tvg-logo="" group-title="India",IN: Zee Cinema
+http://tvku.live:8888/IptvAdi/678ugt/2542
+#EXTINF:-1 tvg-id="" tvg-name="IN: & Picture HD" tvg-logo="" group-title="India",IN: & Picture HD
+http://tvku.live:8888/IptvAdi/678ugt/2553
+#EXTINF:-1 tvg-id="" tvg-name="IN: &TV HD India" tvg-logo="" group-title="India",IN: &TV HD India
+http://tvku.live:8888/IptvAdi/678ugt/2554
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Movies" tvg-logo="" group-title="India",IN: B4U Movies
+http://tvku.live:8888/IptvAdi/678ugt/2557
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Music" tvg-logo="" group-title="India",IN: B4U Music
+http://tvku.live:8888/IptvAdi/678ugt/2558
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold HD" tvg-logo="" group-title="India",IN: Star Gold HD
+http://tvku.live:8888/IptvAdi/678ugt/2549
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies HD" tvg-logo="" group-title="India",IN: Star Movies HD
+http://tvku.live:8888/IptvAdi/678ugt/2550
+#EXTINF:-1 tvg-id="" tvg-name="IN: SUN Life" tvg-logo="" group-title="India",IN: SUN Life
+http://tvku.live:8888/IptvAdi/678ugt/2556
+#EXTINF:-1 tvg-id="" tvg-name="IN: SUN Music" tvg-logo="" group-title="India",IN: SUN Music
+http://tvku.live:8888/IptvAdi/678ugt/2555
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sun TV HD" tvg-logo="" group-title="India",IN: Sun TV HD
+http://tvku.live:8888/IptvAdi/678ugt/2551
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee HD" tvg-logo="" group-title="India",IN: Zee HD
+http://tvku.live:8888/IptvAdi/678ugt/2559
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 1" tvg-logo="" group-title="China",CN: CCTV 1
+http://tvku.live:8888/IptvAdi/678ugt/2909
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 2" tvg-logo="" group-title="China",CN: CCTV 2
+http://tvku.live:8888/IptvAdi/678ugt/2910
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 3" tvg-logo="" group-title="China",CN: CCTV 3
+http://tvku.live:8888/IptvAdi/678ugt/2911
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 4" tvg-logo="" group-title="China",CN: CCTV 4
+http://tvku.live:8888/IptvAdi/678ugt/2912
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 5" tvg-logo="" group-title="China",CN: CCTV 5
+http://tvku.live:8888/IptvAdi/678ugt/2913
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 5+" tvg-logo="" group-title="China",CN: CCTV 5+
+http://tvku.live:8888/IptvAdi/678ugt/2914
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 6" tvg-logo="" group-title="China",CN: CCTV 6
+http://tvku.live:8888/IptvAdi/678ugt/2915
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 7" tvg-logo="" group-title="China",CN: CCTV 7
+http://tvku.live:8888/IptvAdi/678ugt/2916
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 8" tvg-logo="" group-title="China",CN: CCTV 8
+http://tvku.live:8888/IptvAdi/678ugt/2917
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 9" tvg-logo="" group-title="China",CN: CCTV 9
+http://tvku.live:8888/IptvAdi/678ugt/2918
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 10" tvg-logo="" group-title="China",CN: CCTV 10
+http://tvku.live:8888/IptvAdi/678ugt/2919
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 11" tvg-logo="" group-title="China",CN: CCTV 11
+http://tvku.live:8888/IptvAdi/678ugt/2920
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 12" tvg-logo="" group-title="China",CN: CCTV 12
+http://tvku.live:8888/IptvAdi/678ugt/2921
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 13" tvg-logo="" group-title="China",CN: CCTV 13
+http://tvku.live:8888/IptvAdi/678ugt/2922
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 14" tvg-logo="" group-title="China",CN: CCTV 14
+http://tvku.live:8888/IptvAdi/678ugt/2923
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 15" tvg-logo="" group-title="China",CN: CCTV 15
+http://tvku.live:8888/IptvAdi/678ugt/2924
+#EXTINF:-1 tvg-id="" tvg-name="TV9" tvg-logo="" group-title="Astro Malaysia",TV9
+http://tvku.live:8888/IptvAdi/678ugt/950
+#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="http://4.bp.blogspot.com/-cD0bc5yPj2o/VM5lo1oI4qI/AAAAAAAARXQ/jmZX8SGJvCE/s1600/TV1%2BMalaysia%2BOnline%2BLive%2BStreaming.png" group-title="Astro Malaysia",TV1
+http://tvku.live:8888/IptvAdi/678ugt/2262
+#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Astro Malaysia",TV2
+http://tvku.live:8888/IptvAdi/678ugt/2263
+#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-tv3-png-6.png" group-title="Astro Malaysia",TV3
+http://tvku.live:8888/IptvAdi/678ugt/2264
+#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="" group-title="Astro Malaysia",TV8
+http://tvku.live:8888/IptvAdi/678ugt/2333
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Direct" tvg-logo="" group-title="Hong Kong",HK: Now Direct
+http://tvku.live:8888/IptvAdi/678ugt/3337
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now NEWS" tvg-logo="" group-title="Hong Kong",HK: Now NEWS
+http://tvku.live:8888/IptvAdi/678ugt/3338
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Business News Channel" tvg-logo="" group-title="Hong Kong",HK: Now Business News Channel
+http://tvku.live:8888/IptvAdi/678ugt/3339
+#EXTINF:-1 tvg-id="" tvg-name="HK: Phoenix Chinese Channel" tvg-logo="" group-title="Hong Kong",HK: Phoenix Chinese Channel
+http://tvku.live:8888/IptvAdi/678ugt/3340
+#EXTINF:-1 tvg-id="" tvg-name="HK: Phoenix HongKong Channel" tvg-logo="" group-title="Hong Kong",HK: Phoenix HongKong Channel
+http://tvku.live:8888/IptvAdi/678ugt/3341
+#EXTINF:-1 tvg-id="" tvg-name="HK: Phoenix InfoNews Channel" tvg-logo="" group-title="Hong Kong",HK: Phoenix InfoNews Channel
+http://tvku.live:8888/IptvAdi/678ugt/3342
+#EXTINF:-1 tvg-id="" tvg-name="HK: Discovery Science" tvg-logo="" group-title="Hong Kong",HK: Discovery Science
+http://tvku.live:8888/IptvAdi/678ugt/3343
+#EXTINF:-1 tvg-id="" tvg-name="HK: EVE" tvg-logo="" group-title="Hong Kong",HK: EVE
+http://tvku.live:8888/IptvAdi/678ugt/3344
+#EXTINF:-1 tvg-id="" tvg-name="HK: DMAX" tvg-logo="" group-title="Hong Kong",HK: DMAX
+http://tvku.live:8888/IptvAdi/678ugt/3345
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Golf 1" tvg-logo="" group-title="Hong Kong",HK: Now Golf 1
+http://tvku.live:8888/IptvAdi/678ugt/3346
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Golf 2" tvg-logo="" group-title="Hong Kong",HK: Now Golf 2
+http://tvku.live:8888/IptvAdi/678ugt/3347
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Golf 3" tvg-logo="" group-title="Hong Kong",HK: Now Golf 3
+http://tvku.live:8888/IptvAdi/678ugt/3348
+#EXTINF:-1 tvg-id="" tvg-name="HK: Cartoon Network" tvg-logo="" group-title="Hong Kong",HK: Cartoon Network
+http://tvku.live:8888/IptvAdi/678ugt/3349
+#EXTINF:-1 tvg-id="" tvg-name="HK: NickJR" tvg-logo="" group-title="Hong Kong",HK: NickJR
+http://tvku.live:8888/IptvAdi/678ugt/3350
+#EXTINF:-1 tvg-id="" tvg-name="HK: Nickelodeon" tvg-logo="" group-title="Hong Kong",HK: Nickelodeon
+http://tvku.live:8888/IptvAdi/678ugt/3351
+#EXTINF:-1 tvg-id="" tvg-name="HK: Boomerang" tvg-logo="" group-title="Hong Kong",HK: Boomerang
+http://tvku.live:8888/IptvAdi/678ugt/3352
+#EXTINF:-1 tvg-id="" tvg-name="HK: BBC Cbeebies" tvg-logo="" group-title="Hong Kong",HK: BBC Cbeebies
+http://tvku.live:8888/IptvAdi/678ugt/3353
+#EXTINF:-1 tvg-id="" tvg-name="HK: BabyTV" tvg-logo="" group-title="Hong Kong",HK: BabyTV
+http://tvku.live:8888/IptvAdi/678ugt/3354
+#EXTINF:-1 tvg-id="" tvg-name="HK: TVN" tvg-logo="" group-title="Hong Kong",HK: TVN
+http://tvku.live:8888/IptvAdi/678ugt/3355
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Drama Channel" tvg-logo="" group-title="Hong Kong",HK: Now Drama Channel
+http://tvku.live:8888/IptvAdi/678ugt/3356
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Chinese Drama Channel" tvg-logo="" group-title="Hong Kong",HK: Now Chinese Drama Channel
+http://tvku.live:8888/IptvAdi/678ugt/3357
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Jelli" tvg-logo="" group-title="Hong Kong",HK: Now Jelli
+http://tvku.live:8888/IptvAdi/678ugt/3358
+#EXTINF:-1 tvg-id="" tvg-name="HK: Blueant Entertainment" tvg-logo="" group-title="Hong Kong",HK: Blueant Entertainment
+http://tvku.live:8888/IptvAdi/678ugt/3359
+#EXTINF:-1 tvg-id="" tvg-name="HK: WarnerTV" tvg-logo="" group-title="Hong Kong",HK: WarnerTV
+http://tvku.live:8888/IptvAdi/678ugt/3360
+#EXTINF:-1 tvg-id="" tvg-name="HK: Sony GEM" tvg-logo="" group-title="Hong Kong",HK: Sony GEM
+http://tvku.live:8888/IptvAdi/678ugt/3361
+#EXTINF:-1 tvg-id="" tvg-name="HK: CNN" tvg-logo="" group-title="Hong Kong",HK: CNN
+http://tvku.live:8888/IptvAdi/678ugt/3362
+#EXTINF:-1 tvg-id="" tvg-name="HK: CNBC" tvg-logo="" group-title="Hong Kong",HK: CNBC
+http://tvku.live:8888/IptvAdi/678ugt/3363
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Baogu Movies" tvg-logo="" group-title="Hong Kong",HK: Now Baogu Movies
+http://tvku.live:8888/IptvAdi/678ugt/3364
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 501 FHD" tvg-logo="" group-title="Australia",AU: Fox Sports 501 FHD
+http://tvku.live:8888/IptvAdi/678ugt/3268
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 502 FHD" tvg-logo="" group-title="Australia",AU: Fox Sports 502 FHD
+http://tvku.live:8888/IptvAdi/678ugt/3269
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 503 FHD" tvg-logo="" group-title="Australia",AU: Fox Sports 503 FHD
+http://tvku.live:8888/IptvAdi/678ugt/3270
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 504 FHD" tvg-logo="" group-title="Australia",AU: Fox Sports 504 FHD
+http://tvku.live:8888/IptvAdi/678ugt/3271
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 505 FHD" tvg-logo="" group-title="Australia",AU: Fox Sports 505 FHD
+http://tvku.live:8888/IptvAdi/678ugt/3272
+#EXTINF:-1 tvg-id="" tvg-name="PH: 24France" tvg-logo="" group-title="Philippines",PH: 24France
+http://tvku.live:8888/IptvAdi/678ugt/3412
+#EXTINF:-1 tvg-id="" tvg-name="PH: AlJazeera" tvg-logo="" group-title="Philippines",PH: AlJazeera
+http://tvku.live:8888/IptvAdi/678ugt/3413
+#EXTINF:-1 tvg-id="" tvg-name="PH: Animal Planet" tvg-logo="" group-title="Philippines",PH: Animal Planet
+http://tvku.live:8888/IptvAdi/678ugt/3414
+#EXTINF:-1 tvg-id="" tvg-name="PH: Animax" tvg-logo="" group-title="Philippines",PH: Animax
+http://tvku.live:8888/IptvAdi/678ugt/3415
+#EXTINF:-1 tvg-id="" tvg-name="PH: AniPlus" tvg-logo="" group-title="Philippines",PH: AniPlus
+http://tvku.live:8888/IptvAdi/678ugt/3416
+#EXTINF:-1 tvg-id="" tvg-name="PH: Arirang" tvg-logo="" group-title="Philippines",PH: Arirang
+http://tvku.live:8888/IptvAdi/678ugt/3417
+#EXTINF:-1 tvg-id="" tvg-name="PH: Asia News" tvg-logo="" group-title="Philippines",PH: Asia News
+http://tvku.live:8888/IptvAdi/678ugt/3418
+#EXTINF:-1 tvg-id="" tvg-name="PH: Asian Food Channel" tvg-logo="" group-title="Philippines",PH: Asian Food Channel
+http://tvku.live:8888/IptvAdi/678ugt/3419
+#EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="" group-title="Philippines",PH: AXN
+http://tvku.live:8888/IptvAdi/678ugt/3420
+#EXTINF:-1 tvg-id="" tvg-name="PH: Baby First" tvg-logo="" group-title="Philippines",PH: Baby First
+http://tvku.live:8888/IptvAdi/678ugt/3421
+#EXTINF:-1 tvg-id="" tvg-name="PH: beIN Sports2" tvg-logo="" group-title="Philippines",PH: beIN Sports2
+http://tvku.live:8888/IptvAdi/678ugt/3422
+#EXTINF:-1 tvg-id="" tvg-name="PH: beIN Sports1" tvg-logo="" group-title="Philippines",PH: beIN Sports1
+http://tvku.live:8888/IptvAdi/678ugt/3423
+#EXTINF:-1 tvg-id="" tvg-name="PH: Bloomberg" tvg-logo="" group-title="Philippines",PH: Bloomberg
+http://tvku.live:8888/IptvAdi/678ugt/3424
+#EXTINF:-1 tvg-id="" tvg-name="PH: Blue Ant Entertainment" tvg-logo="" group-title="Philippines",PH: Blue Ant Entertainment
+http://tvku.live:8888/IptvAdi/678ugt/3425
+#EXTINF:-1 tvg-id="" tvg-name="PH: Blue Ant Extreme" tvg-logo="" group-title="Philippines",PH: Blue Ant Extreme
+http://tvku.live:8888/IptvAdi/678ugt/3426
+#EXTINF:-1 tvg-id="" tvg-name="PH: Btv" tvg-logo="" group-title="Philippines",PH: Btv
+http://tvku.live:8888/IptvAdi/678ugt/3427
+#EXTINF:-1 tvg-id="" tvg-name="PH: Cartoon Network" tvg-logo="" group-title="Philippines",PH: Cartoon Network
+http://tvku.live:8888/IptvAdi/678ugt/3428
+#EXTINF:-1 tvg-id="" tvg-name="PH: CNN" tvg-logo="" group-title="Philippines",PH: CNN
+http://tvku.live:8888/IptvAdi/678ugt/3429
+#EXTINF:-1 tvg-id="" tvg-name="PH: Discovery Asia World" tvg-logo="" group-title="Philippines",PH: Discovery Asia World
+http://tvku.live:8888/IptvAdi/678ugt/3430
+#EXTINF:-1 tvg-id="" tvg-name="PH: Disney Channel" tvg-logo="" group-title="Philippines",PH: Disney Channel
+http://tvku.live:8888/IptvAdi/678ugt/3431
+#EXTINF:-1 tvg-id="" tvg-name="PH: Celestial Classic Movies" tvg-logo="" group-title="Philippines",PH: Celestial Classic Movies
+http://tvku.live:8888/IptvAdi/678ugt/3432
+#EXTINF:-1 tvg-id="" tvg-name="PH: Crime Investigation" tvg-logo="" group-title="Philippines",PH: Crime Investigation
+http://tvku.live:8888/IptvAdi/678ugt/3433
+#EXTINF:-1 tvg-id="" tvg-name="PH: Euronews" tvg-logo="" group-title="Philippines",PH: Euronews
+http://tvku.live:8888/IptvAdi/678ugt/3434
+#EXTINF:-1 tvg-id="" tvg-name="PH: Eurosport" tvg-logo="" group-title="Philippines",PH: Eurosport
+http://tvku.live:8888/IptvAdi/678ugt/3435
+#EXTINF:-1 tvg-id="" tvg-name="PH: HGTV" tvg-logo="" group-title="Philippines",PH: HGTV
+http://tvku.live:8888/IptvAdi/678ugt/3436
+#EXTINF:-1 tvg-id="" tvg-name="PH: FoodNetwork" tvg-logo="" group-title="Philippines",PH: FoodNetwork
+http://tvku.live:8888/IptvAdi/678ugt/3437
+#EXTINF:-1 tvg-id="" tvg-name="PH: History2" tvg-logo="" group-title="Philippines",PH: History2
+http://tvku.live:8888/IptvAdi/678ugt/3438
+#EXTINF:-1 tvg-id="" tvg-name="PH: History" tvg-logo="" group-title="Philippines",PH: History
+http://tvku.live:8888/IptvAdi/678ugt/3439
+#EXTINF:-1 tvg-id="" tvg-name="PH: Kix" tvg-logo="" group-title="Philippines",PH: Kix
+http://tvku.live:8888/IptvAdi/678ugt/3440
+#EXTINF:-1 tvg-id="" tvg-name="PH: Lifetime Channel" tvg-logo="" group-title="Philippines",PH: Lifetime Channel
+http://tvku.live:8888/IptvAdi/678ugt/3441
+#EXTINF:-1 tvg-id="" tvg-name="PH: Hits" tvg-logo="" group-title="Philippines",PH: Hits
+http://tvku.live:8888/IptvAdi/678ugt/3442
+#EXTINF:-1 tvg-id="" tvg-name="PH: Living Asia" tvg-logo="" group-title="Philippines",PH: Living Asia
+http://tvku.live:8888/IptvAdi/678ugt/3443
+#EXTINF:-1 tvg-id="" tvg-name="PH: NatGeo" tvg-logo="" group-title="Philippines",PH: NatGeo
+http://tvku.live:8888/IptvAdi/678ugt/3444
+#EXTINF:-1 tvg-id="" tvg-name="PH: MiaoMi" tvg-logo="" group-title="Philippines",PH: MiaoMi
+http://tvku.live:8888/IptvAdi/678ugt/3445
+#EXTINF:-1 tvg-id="" tvg-name="PH: Nickelodeo" tvg-logo="" group-title="Philippines",PH: Nickelodeo
+http://tvku.live:8888/IptvAdi/678ugt/3446
+#EXTINF:-1 tvg-id="" tvg-name="PH: NickJr" tvg-logo="" group-title="Philippines",PH: NickJr
+http://tvku.live:8888/IptvAdi/678ugt/3447
+#EXTINF:-1 tvg-id="" tvg-name="PH: StingrayClassica" tvg-logo="" group-title="Philippines",PH: StingrayClassica
+http://tvku.live:8888/IptvAdi/678ugt/3448
+#EXTINF:-1 tvg-id="" tvg-name="PH: Thrill" tvg-logo="" group-title="Philippines",PH: Thrill
+http://tvku.live:8888/IptvAdi/678ugt/3449
+#EXTINF:-1 tvg-id="" tvg-name="PH:Travel" tvg-logo="" group-title="Philippines",PH:Travel
+http://tvku.live:8888/IptvAdi/678ugt/3450
+#EXTINF:-1 tvg-id="" tvg-name="PH: Telenovela" tvg-logo="" group-title="Philippines",PH: Telenovela
+http://tvku.live:8888/IptvAdi/678ugt/3451
+#EXTINF:-1 tvg-id="" tvg-name="PH: TVN" tvg-logo="" group-title="Philippines",PH: TVN
+http://tvku.live:8888/IptvAdi/678ugt/3452
+#EXTINF:-1 tvg-id="" tvg-name="PH: WarnerTV" tvg-logo="" group-title="Philippines",PH: WarnerTV
+http://tvku.live:8888/IptvAdi/678ugt/3453
+#EXTINF:-1 tvg-id="" tvg-name="PH: GMA Pinoy TV" tvg-logo="" group-title="Philippines",PH: GMA Pinoy TV
+http://tvku.live:8888/IptvAdi/678ugt/3454
+#EXTINF:-1 tvg-id="" tvg-name="PH: GMA News TV" tvg-logo="" group-title="Philippines",PH: GMA News TV
+http://tvku.live:8888/IptvAdi/678ugt/3455
+#EXTINF:-1 tvg-id="" tvg-name="PH: TFC" tvg-logo="" group-title="Philippines",PH: TFC
+http://tvku.live:8888/IptvAdi/678ugt/3456
+#EXTINF:-1 tvg-id="" tvg-name="PH: Comedy Central HD" tvg-logo="" group-title="Philippines",PH: Comedy Central HD
+http://tvku.live:8888/IptvAdi/678ugt/3457
+#EXTINF:-1 tvg-id="" tvg-name="PH: GMA Life" tvg-logo="" group-title="Philippines",PH: GMA Life
+http://tvku.live:8888/IptvAdi/678ugt/3458
+#EXTINF:-1 tvg-id="" tvg-name="TH: 2019 European tourlive" tvg-logo="" group-title="Thailand",TH: 2019 European tourlive
+http://tvku.live:8888/IptvAdi/678ugt/2813
+#EXTINF:-1 tvg-id="" tvg-name="TH: 2019 Champions tourlive" tvg-logo="" group-title="Thailand",TH: 2019 Champions tourlive
+http://tvku.live:8888/IptvAdi/678ugt/2812
+#EXTINF:-1 tvg-id="" tvg-name="TH: 2019 PGA tourlive" tvg-logo="" group-title="Thailand",TH: 2019 PGA tourlive
+http://tvku.live:8888/IptvAdi/678ugt/2814
+#EXTINF:-1 tvg-id="" tvg-name="TH: 2019 Webcom tourlive" tvg-logo="" group-title="Thailand",TH: 2019 Webcom tourlive
+http://tvku.live:8888/IptvAdi/678ugt/2815
+#EXTINF:-1 tvg-id="" tvg-name="TH: 4050" tvg-logo="" group-title="Thailand",TH: 4050
+http://tvku.live:8888/IptvAdi/678ugt/2816
+#EXTINF:-1 tvg-id="" tvg-name="TH: AFC" tvg-logo="" group-title="Thailand",TH: AFC
+http://tvku.live:8888/IptvAdi/678ugt/2817
+#EXTINF:-1 tvg-id="" tvg-name="TH: AIS Esports Online Tournament PUBG2" tvg-logo="" group-title="Thailand",TH: AIS Esports Online Tournament PUBG2
+http://tvku.live:8888/IptvAdi/678ugt/2818
+#EXTINF:-1 tvg-id="" tvg-name="TH: AIS Esports Online Tournament PUBG1" tvg-logo="" group-title="Thailand",TH: AIS Esports Online Tournament PUBG1
+http://tvku.live:8888/IptvAdi/678ugt/2819
+#EXTINF:-1 tvg-id="" tvg-name="TH: AIS Futsal1" tvg-logo="" group-title="Thailand",TH: AIS Futsal1
+http://tvku.live:8888/IptvAdi/678ugt/2820
+#EXTINF:-1 tvg-id="" tvg-name="TH: AIS Futsal2" tvg-logo="" group-title="Thailand",TH: AIS Futsal2
+http://tvku.live:8888/IptvAdi/678ugt/2821
+#EXTINF:-1 tvg-id="" tvg-name="TH: Amarintv HD" tvg-logo="" group-title="Thailand",TH: Amarintv HD
+http://tvku.live:8888/IptvAdi/678ugt/2822
+#EXTINF:-1 tvg-id="" tvg-name="TH: Aktion" tvg-logo="" group-title="Thailand",TH: Aktion
+http://tvku.live:8888/IptvAdi/678ugt/2823
+#EXTINF:-1 tvg-id="" tvg-name="TH: Aniplus" tvg-logo="" group-title="Thailand",TH: Aniplus
+http://tvku.live:8888/IptvAdi/678ugt/2824
+#EXTINF:-1 tvg-id="" tvg-name="TH: ATTV" tvg-logo="" group-title="Thailand",TH: ATTV
+http://tvku.live:8888/IptvAdi/678ugt/2825
+#EXTINF:-1 tvg-id="" tvg-name="TH: Babytv" tvg-logo="" group-title="Thailand",TH: Babytv
+http://tvku.live:8888/IptvAdi/678ugt/2826
+#EXTINF:-1 tvg-id="" tvg-name="TH: Blue Ant Entertainment" tvg-logo="" group-title="Thailand",TH: Blue Ant Entertainment
+http://tvku.live:8888/IptvAdi/678ugt/2827
+#EXTINF:-1 tvg-id="" tvg-name="TH: Boomerang" tvg-logo="" group-title="Thailand",TH: Boomerang
+http://tvku.live:8888/IptvAdi/678ugt/2828
+#EXTINF:-1 tvg-id="" tvg-name="TH: Blue Ant Extreme" tvg-logo="" group-title="Thailand",TH: Blue Ant Extreme
+http://tvku.live:8888/IptvAdi/678ugt/2829
+#EXTINF:-1 tvg-id="" tvg-name="TH: Cartoon Club" tvg-logo="" group-title="Thailand",TH: Cartoon Club
+http://tvku.live:8888/IptvAdi/678ugt/2830
+#EXTINF:-1 tvg-id="" tvg-name="TH: Cartoon Network" tvg-logo="" group-title="Thailand",TH: Cartoon Network
+http://tvku.live:8888/IptvAdi/678ugt/2831
+#EXTINF:-1 tvg-id="" tvg-name="TH: NBA Finals 2019" tvg-logo="" group-title="Thailand",TH: NBA Finals 2019
+http://tvku.live:8888/IptvAdi/678ugt/2832
+#EXTINF:-1 tvg-id="" tvg-name="TH: Nation TV" tvg-logo="" group-title="Thailand",TH: Nation TV
+http://tvku.live:8888/IptvAdi/678ugt/2833
+#EXTINF:-1 tvg-id="" tvg-name="TH: Natgeo Wild" tvg-logo="" group-title="Thailand",TH: Natgeo Wild
+http://tvku.live:8888/IptvAdi/678ugt/2834
+#EXTINF:-1 tvg-id="" tvg-name="TH: Natgeo People" tvg-logo="" group-title="Thailand",TH: Natgeo People
+http://tvku.live:8888/IptvAdi/678ugt/2835
+#EXTINF:-1 tvg-id="" tvg-name="TH: Natgeo" tvg-logo="" group-title="Thailand",TH: Natgeo
+http://tvku.live:8888/IptvAdi/678ugt/2836
+#EXTINF:-1 tvg-id="" tvg-name="TH: Mcot HD" tvg-logo="" group-title="Thailand",TH: Mcot HD
+http://tvku.live:8888/IptvAdi/678ugt/2837
+#EXTINF:-1 tvg-id="" tvg-name="TH: Mcot Family 14" tvg-logo="" group-title="Thailand",TH: Mcot Family 14
+http://tvku.live:8888/IptvAdi/678ugt/2838
+#EXTINF:-1 tvg-id="" tvg-name="TH: HBO Signature HD" tvg-logo="" group-title="Thailand",TH: HBO Signature HD
+http://tvku.live:8888/IptvAdi/678ugt/2839
+#EXTINF:-1 tvg-id="" tvg-name="TH: HBO Hits HD" tvg-logo="" group-title="Thailand",TH: HBO Hits HD
+http://tvku.live:8888/IptvAdi/678ugt/2840
+#EXTINF:-1 tvg-id="" tvg-name="TH: HBO family HD" tvg-logo="" group-title="Thailand",TH: HBO family HD
+http://tvku.live:8888/IptvAdi/678ugt/2841
+#EXTINF:-1 tvg-id="" tvg-name="TH: HBO HD" tvg-logo="" group-title="Thailand",TH: HBO HD
+http://tvku.live:8888/IptvAdi/678ugt/2842
+#EXTINF:-1 tvg-id="" tvg-name="TH: Goneviral Xtreme" tvg-logo="" group-title="Thailand",TH: Goneviral Xtreme
+http://tvku.live:8888/IptvAdi/678ugt/2843
+#EXTINF:-1 tvg-id="" tvg-name="TH: Goneviral Vogue" tvg-logo="" group-title="Thailand",TH: Goneviral Vogue
+http://tvku.live:8888/IptvAdi/678ugt/2844
+#EXTINF:-1 tvg-id="" tvg-name="TH: Goneviral TV" tvg-logo="" group-title="Thailand",TH: Goneviral TV
+http://tvku.live:8888/IptvAdi/678ugt/2845
+#EXTINF:-1 tvg-id="" tvg-name="TH: Golfplus" tvg-logo="" group-title="Thailand",TH: Golfplus
+http://tvku.live:8888/IptvAdi/678ugt/2846
+#EXTINF:-1 tvg-id="" tvg-name="TH: Foxmovies" tvg-logo="" group-title="Thailand",TH: Foxmovies
+http://tvku.live:8888/IptvAdi/678ugt/2847
+#EXTINF:-1 tvg-id="" tvg-name="TH: FoxLife" tvg-logo="" group-title="Thailand",TH: FoxLife
+http://tvku.live:8888/IptvAdi/678ugt/2848
+#EXTINF:-1 tvg-id="" tvg-name="TH: Foxfamily Movies" tvg-logo="" group-title="Thailand",TH: Foxfamily Movies
+http://tvku.live:8888/IptvAdi/678ugt/2849
+#EXTINF:-1 tvg-id="" tvg-name="TH: Foxcrime" tvg-logo="" group-title="Thailand",TH: Foxcrime
+http://tvku.live:8888/IptvAdi/678ugt/2850
+#EXTINF:-1 tvg-id="" tvg-name="TH: Fox Action Movies" tvg-logo="" group-title="Thailand",TH: Fox Action Movies
+http://tvku.live:8888/IptvAdi/678ugt/2851
+#EXTINF:-1 tvg-id="" tvg-name="TH: Food Network" tvg-logo="" group-title="Thailand",TH: Food Network
+http://tvku.live:8888/IptvAdi/678ugt/2853
+#EXTINF:-1 tvg-id="" tvg-name="TH: Fox1" tvg-logo="" group-title="Thailand",TH: Fox1
+http://tvku.live:8888/IptvAdi/678ugt/2852
+#EXTINF:-1 tvg-id="" tvg-name="US: AE" tvg-logo="" group-title="US",US: AE
+http://tvku.live:8888/IptvAdi/678ugt/3174
+#EXTINF:-1 tvg-id="" tvg-name="US: AMC" tvg-logo="" group-title="US",US: AMC
+http://tvku.live:8888/IptvAdi/678ugt/3175
+#EXTINF:-1 tvg-id="" tvg-name="US: American Heroes Channel" tvg-logo="" group-title="US",US: American Heroes Channel
+http://tvku.live:8888/IptvAdi/678ugt/3176
+#EXTINF:-1 tvg-id="" tvg-name="US: Animal Planet East" tvg-logo="" group-title="US",US: Animal Planet East
+http://tvku.live:8888/IptvAdi/678ugt/3177
+#EXTINF:-1 tvg-id="" tvg-name="US: Animal Planet West" tvg-logo="" group-title="US",US: Animal Planet West
+http://tvku.live:8888/IptvAdi/678ugt/3178
+#EXTINF:-1 tvg-id="" tvg-name="US: Aspire" tvg-logo="" group-title="US",US: Aspire
+http://tvku.live:8888/IptvAdi/678ugt/3179
+#EXTINF:-1 tvg-id="" tvg-name="US: AWE" tvg-logo="" group-title="US",US: AWE
+http://tvku.live:8888/IptvAdi/678ugt/3180
+#EXTINF:-1 tvg-id="" tvg-name="US: AXS TV" tvg-logo="" group-title="US",US: AXS TV
+http://tvku.live:8888/IptvAdi/678ugt/3181
+#EXTINF:-1 tvg-id="" tvg-name="US: Baby First" tvg-logo="" group-title="US",US: Baby First
+http://tvku.live:8888/IptvAdi/678ugt/3182
+#EXTINF:-1 tvg-id="" tvg-name="US: Cartoon Network East" tvg-logo="" group-title="US",US: Cartoon Network East
+http://tvku.live:8888/IptvAdi/678ugt/3183
+#EXTINF:-1 tvg-id="" tvg-name="US: Cartoon Network West" tvg-logo="" group-title="US",US: Cartoon Network West
+http://tvku.live:8888/IptvAdi/678ugt/3184
+#EXTINF:-1 tvg-id="" tvg-name="US: CNBC" tvg-logo="" group-title="US",US: CNBC
+http://tvku.live:8888/IptvAdi/678ugt/3185
+#EXTINF:-1 tvg-id="" tvg-name="US: CNBC World" tvg-logo="" group-title="US",US: CNBC World
+http://tvku.live:8888/IptvAdi/678ugt/3186
+#EXTINF:-1 tvg-id="" tvg-name="US: CNN" tvg-logo="" group-title="US",US: CNN
+http://tvku.live:8888/IptvAdi/678ugt/3187
+#EXTINF:-1 tvg-id="" tvg-name="US: Comedy Central East" tvg-logo="" group-title="US",US: Comedy Central East
+http://tvku.live:8888/IptvAdi/678ugt/3188
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Channel East" tvg-logo="" group-title="US",US: Discovery Channel East
+http://tvku.live:8888/IptvAdi/678ugt/3189
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Channel West" tvg-logo="" group-title="US",US: Discovery Channel West
+http://tvku.live:8888/IptvAdi/678ugt/3190
+#EXTINF:-1 tvg-id="" tvg-name="US: Investigation Discovery East" tvg-logo="" group-title="US",US: Investigation Discovery East
+http://tvku.live:8888/IptvAdi/678ugt/3191
+#EXTINF:-1 tvg-id="" tvg-name="US: Investigation Discovery West" tvg-logo="" group-title="US",US: Investigation Discovery West
+http://tvku.live:8888/IptvAdi/678ugt/3192
+#EXTINF:-1 tvg-id="" tvg-name="US: Food Network East" tvg-logo="" group-title="US",US: Food Network East
+http://tvku.live:8888/IptvAdi/678ugt/3193
+#EXTINF:-1 tvg-id="" tvg-name="US: Food Network West" tvg-logo="" group-title="US",US: Food Network West
+http://tvku.live:8888/IptvAdi/678ugt/3194
+#EXTINF:-1 tvg-id="" tvg-name="US: FYI" tvg-logo="" group-title="US",US: FYI
+http://tvku.live:8888/IptvAdi/678ugt/3195
+#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Drama" tvg-logo="" group-title="US",US: Hallmark Drama
+http://tvku.live:8888/IptvAdi/678ugt/3196
+#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Movies and Mysteries" tvg-logo="" group-title="US",US: Hallmark Movies and Mysteries
+http://tvku.live:8888/IptvAdi/678ugt/3197
+#EXTINF:-1 tvg-id="" tvg-name="US: HGTV Central" tvg-logo="" group-title="US",US: HGTV Central
+http://tvku.live:8888/IptvAdi/678ugt/3198
+#EXTINF:-1 tvg-id="" tvg-name="US: Viceland" tvg-logo="" group-title="US",US: Viceland
+http://tvku.live:8888/IptvAdi/678ugt/3199
+#EXTINF:-1 tvg-id="" tvg-name="US: Weather Channel" tvg-logo="" group-title="US",US: Weather Channel
+http://tvku.live:8888/IptvAdi/678ugt/3207
+#EXTINF:-1 tvg-id="" tvg-name="US: WE TV" tvg-logo="" group-title="US",US: WE TV
+http://tvku.live:8888/IptvAdi/678ugt/3208
+#EXTINF:-1 tvg-id="" tvg-name="US: TNT West" tvg-logo="" group-title="US",US: TNT West
+http://tvku.live:8888/IptvAdi/678ugt/3209
+#EXTINF:-1 tvg-id="" tvg-name="US: TNT East" tvg-logo="" group-title="US",US: TNT East
+http://tvku.live:8888/IptvAdi/678ugt/3211
+#EXTINF:-1 tvg-id="" tvg-name="US: Syfy West" tvg-logo="" group-title="US",US: Syfy West
+http://tvku.live:8888/IptvAdi/678ugt/3212
+#EXTINF:-1 tvg-id="" tvg-name="US: Syfy East" tvg-logo="" group-title="US",US: Syfy East
+http://tvku.live:8888/IptvAdi/678ugt/3213
+#EXTINF:-1 tvg-id="US: SONY MOVIE CHANNEL" tvg-name="US: Sony Movie Channel" tvg-logo="" group-title="US",US: Sony Movie Channel
+http://tvku.live:8888/IptvAdi/678ugt/3214
+#EXTINF:-1 tvg-id="US: SMITHSONIAN WEST" tvg-name="US: Smithsonian West" tvg-logo="" group-title="US",US: Smithsonian West
+http://tvku.live:8888/IptvAdi/678ugt/3215
+#EXTINF:-1 tvg-id="US: SMITHSONIAN EAST" tvg-name="US: Smithsonian East" tvg-logo="" group-title="US",US: Smithsonian East
+http://tvku.live:8888/IptvAdi/678ugt/3216
+#EXTINF:-1 tvg-id="US: PARAMOUNT CHANNEL" tvg-name="US: Paramount Channel" tvg-logo="" group-title="US",US: Paramount Channel
+http://tvku.live:8888/IptvAdi/678ugt/3217
+#EXTINF:-1 tvg-id="" tvg-name="US: Outside TV" tvg-logo="" group-title="US",US: Outside TV
+http://tvku.live:8888/IptvAdi/678ugt/3218
+#EXTINF:-1 tvg-id="" tvg-name="US: Outdoor Channel" tvg-logo="" group-title="US",US: Outdoor Channel
+http://tvku.live:8888/IptvAdi/678ugt/3219
+#EXTINF:-1 tvg-id="" tvg-name="US: LifeTime" tvg-logo="" group-title="US",US: LifeTime
+http://tvku.live:8888/IptvAdi/678ugt/3220
+#EXTINF:-1 tvg-id="" tvg-name="US: Law and Crime" tvg-logo="" group-title="US",US: Law and Crime
+http://tvku.live:8888/IptvAdi/678ugt/3221
+#EXTINF:-1 tvg-id="" tvg-name="US: USA Network West" tvg-logo="" group-title="US",US: USA Network West
+http://tvku.live:8888/IptvAdi/678ugt/3280
+#EXTINF:-1 tvg-id="" tvg-name="US: USA Network East" tvg-logo="" group-title="US",US: USA Network East
+http://tvku.live:8888/IptvAdi/678ugt/3281
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE WESTERNS" tvg-logo="" group-title="US",US: STARZENCORE WESTERNS
+http://tvku.live:8888/IptvAdi/678ugt/3282
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE SUSPENSE" tvg-logo="" group-title="US",US: STARZENCORE SUSPENSE
+http://tvku.live:8888/IptvAdi/678ugt/3283
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE FAMILY" tvg-logo="" group-title="US",US: STARZENCORE FAMILY
+http://tvku.live:8888/IptvAdi/678ugt/3284
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE" tvg-logo="" group-title="US",US: STARZENCORE
+http://tvku.live:8888/IptvAdi/678ugt/3285
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ WEST" tvg-logo="" group-title="US",US: STARZ WEST
+http://tvku.live:8888/IptvAdi/678ugt/3286
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ KIDS FAMILY" tvg-logo="" group-title="US",US: STARZ KIDS FAMILY
+http://tvku.live:8888/IptvAdi/678ugt/3287
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ IN BLACK" tvg-logo="" group-title="US",US: STARZ IN BLACK
+http://tvku.live:8888/IptvAdi/678ugt/3288
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ EDGE" tvg-logo="" group-title="US",US: STARZ EDGE
+http://tvku.live:8888/IptvAdi/678ugt/3289
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ EAST" tvg-logo="" group-title="US",US: STARZ EAST
+http://tvku.live:8888/IptvAdi/678ugt/3290
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ CINEMA" tvg-logo="" group-title="US",US: STARZ CINEMA
+http://tvku.live:8888/IptvAdi/678ugt/3291
+#EXTINF:-1 tvg-id="" tvg-name="US: Game Show Network" tvg-logo="" group-title="US",US: Game Show Network
+http://tvku.live:8888/IptvAdi/678ugt/3335
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Nahar" tvg-logo="" group-title="Arab",AR: Al Nahar
+http://tvku.live:8888/IptvAdi/678ugt/2575
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC 2 HD" tvg-logo="" group-title="Arab",AR: MBC 2 HD
+http://tvku.live:8888/IptvAdi/678ugt/2561
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC 3 HD" tvg-logo="" group-title="Arab",AR: MBC 3 HD
+http://tvku.live:8888/IptvAdi/678ugt/2562
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC 4 HD" tvg-logo="" group-title="Arab",AR: MBC 4 HD
+http://tvku.live:8888/IptvAdi/678ugt/2563
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC Action HD" tvg-logo="" group-title="Arab",AR: MBC Action HD
+http://tvku.live:8888/IptvAdi/678ugt/2564
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC Drama HD" tvg-logo="" group-title="Arab",AR: MBC Drama HD
+http://tvku.live:8888/IptvAdi/678ugt/2565
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC HD" tvg-logo="" group-title="Arab",AR: MBC HD
+http://tvku.live:8888/IptvAdi/678ugt/2560
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC Mac HD" tvg-logo="" group-title="Arab",AR: MBC Mac HD
+http://tvku.live:8888/IptvAdi/678ugt/2566
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC Plus Drama HD" tvg-logo="" group-title="Arab",AR: MBC Plus Drama HD
+http://tvku.live:8888/IptvAdi/678ugt/2568
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC Variety HD" tvg-logo="" group-title="Arab",AR: MBC Variety HD
+http://tvku.live:8888/IptvAdi/678ugt/2567
+#EXTINF:-1 tvg-id="" tvg-name="AR: Nile Cinema" tvg-logo="" group-title="Arab",AR: Nile Cinema
+http://tvku.live:8888/IptvAdi/678ugt/2584
+#EXTINF:-1 tvg-id="" tvg-name="AR: NILE COMEDY" tvg-logo="" group-title="Arab",AR: NILE COMEDY
+http://tvku.live:8888/IptvAdi/678ugt/2583
+#EXTINF:-1 tvg-id="" tvg-name="AR: Nile Culture" tvg-logo="" group-title="Arab",AR: Nile Culture
+http://tvku.live:8888/IptvAdi/678ugt/2582
+#EXTINF:-1 tvg-id="" tvg-name="AR: Nile Drama" tvg-logo="" group-title="Arab",AR: Nile Drama
+http://tvku.live:8888/IptvAdi/678ugt/2581
+#EXTINF:-1 tvg-id="" tvg-name="AR: Nile Family" tvg-logo="" group-title="Arab",AR: Nile Family
+http://tvku.live:8888/IptvAdi/678ugt/2576
+#EXTINF:-1 tvg-id="" tvg-name="AR: Nile Life" tvg-logo="" group-title="Arab",AR: Nile Life
+http://tvku.live:8888/IptvAdi/678ugt/2580
+#EXTINF:-1 tvg-id="" tvg-name="AR: NILE NEWS" tvg-logo="" group-title="Arab",AR: NILE NEWS
+http://tvku.live:8888/IptvAdi/678ugt/2579
+#EXTINF:-1 tvg-id="" tvg-name="AR: Nile Sport" tvg-logo="" group-title="Arab",AR: Nile Sport
+http://tvku.live:8888/IptvAdi/678ugt/2578
+#EXTINF:-1 tvg-id="" tvg-name="AR: Nile tv" tvg-logo="" group-title="Arab",AR: Nile tv
+http://tvku.live:8888/IptvAdi/678ugt/2577
+#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Alfam HD" tvg-logo="" group-title="Arab",AR: Rotana Alfam HD
+http://tvku.live:8888/IptvAdi/678ugt/2574
+#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Cinema HD" tvg-logo="" group-title="Arab",AR: Rotana Cinema HD
+http://tvku.live:8888/IptvAdi/678ugt/2573
+#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Classic HD" tvg-logo="" group-title="Arab",AR: Rotana Classic HD
+http://tvku.live:8888/IptvAdi/678ugt/2572
+#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Khalijiah HD" tvg-logo="" group-title="Arab",AR: Rotana Khalijiah HD
+http://tvku.live:8888/IptvAdi/678ugt/2571
+#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Masriah HD" tvg-logo="" group-title="Arab",AR: Rotana Masriah HD
+http://tvku.live:8888/IptvAdi/678ugt/2570
+#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Music HD" tvg-logo="" group-title="Arab",AR: Rotana Music HD
+http://tvku.live:8888/IptvAdi/678ugt/2569
